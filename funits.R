@@ -19,13 +19,17 @@ tab_model(modelC)
 tab_model(modelF)
 tab_model(modelI)
 
+funitsI <- (filter(funits, MT == "Infantry"))
+funitsIR <- (filter(funits, MT == "Infantry", Range == "Ranged"))
+funitsIM <- (filter(funits, MT == "Infantry", Range == "Melee"))
 
-plot <- ggplot(filter(funits, MT == "Infantry"))  + geom_point(aes(x = DSR, y = Hibst, colour = ratings))
+plot <- ggplot(filter(funits, MT == "Infantry"))  + geom_point(aes(x = DSR, y = Hibst, colour = Ratings))
 plot
 
 
-plot <- ggplot(funits)  + geom_point(aes(x = DSR, y = Hibst, colour = MT))
-plot <- plot + geom_abline(intercept = 1.528e+02, slope = 1.158e-02)
+plot <- ggplot(funitsI, aes(x = DSR, y = Hibst, color = Range))+ geom_point()
+plot <- plot + stat_smooth(method = "lm", data = funitsIR, formula = y ~ poly(x, 2), size = 1) +
+                stat_smooth(method = "lm", data = funitsIM, formula = y ~ poly(x, 2), size = 1)
 plot
 
 plot <- ggplot(funits) + geom_point(aes(x = DSR, y = Lowbst))+ geom_point(aes(x = DSR, y = Hibst, color = 'red'))
