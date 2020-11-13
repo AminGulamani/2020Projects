@@ -1,0 +1,587 @@
+Name,Lowhp,Midhp,Hihp,Lowatk,Midatk,Hiatk,Lowspd,Midspd,Hispd,Lowdef,Middef,Hidef,Lowres,Midres,Hires,Lowbst,Hibst,DSR,MT,TT,Ratings,Range
+Abel: The Panther,35,39,42,30,33,36,29,32,35,22,25,28,22,25,29,153,155,0,Cavalry,0,"['3', '4']",Melee
+Alfonse: Askran Duo,37,41,44,35,38,42,14,17,21,32,35,39,26,30,33,160,162,1063,Infantry,0,['5'],Ranged
+Alfonse: Prince of Askr,40,43,46,32,35,38,22,25,29,29,32,35,19,22,25,157,158,0,Infantry,0,['4'],Melee
+Alfonse: Spring Prince,37,41,44,32,35,38,30,33,36,27,30,33,14,18,21,156,157,413,Cavalry,0,['5'],Melee
+Alm: Hero of Prophecy,42,45,48,30,33,36,27,30,33,24,28,31,19,22,25,157,158,71,Infantry,0,['5'],Melee
+Alm: Imperial Ascent,39,42,45,35,38,42,32,35,38,34,37,40,17,20,23,172,173,925,Infantry,0,['5'],Melee
+Alm: Lovebird Duo,36,40,43,32,35,38,37,40,44,29,32,35,22,25,29,171,173,1099,Infantry,0,['5'],Melee
+Alm: Saint-King,36,40,43,34,37,40,34,37,40,22,26,29,19,22,26,161,163,814,,0,['5'],Ranged
+Altena: Luminous Rider,42,45,48,34,37,40,22,25,29,36,39,43,16,20,23,165,167,1071,Flying,0,"['4', '5']",Melee
+Altina: Dawn%27s Trueblade,39,42,45,35,38,42,17,20,23,27,30,34,33,36,39,166,167,1029,,0,['5'],Melee
+Amelia: Rose of the War,44,47,50,31,34,37,31,34,37,32,35,38,20,23,27,173,174,194,Armored,0,['5'],Melee
+Anna: Commander,37,41,44,25,29,32,35,38,41,19,22,25,24,28,31,157,158,0,Infantry,0,['4'],Melee
+Anna: Secret Seller,35,38,42,32,35,38,37,40,44,24,28,31,28,31,34,171,173,1219,Infantry,0,['5'],Melee
+Anna: Wealth-Wisher,36,40,43,31,34,37,37,40,44,12,16,19,34,37,40,166,168,1063,Infantry,0,['5'],Ranged
+Annette: Overachiever,36,40,43,36,39,43,33,36,39,24,28,31,26,30,33,172,174,1128,Infantry,0,['5'],Melee
+Arden: Strong and Tough,57,60,63,33,36,39,12,16,19,38,41,44,12,16,19,168,169,263,Armored,1,"['4', '5']",Melee
+Ares: Black Knight,36,40,43,33,36,39,26,30,33,30,33,36,14,18,21,156,157,462,Cavalry,0,"['3', '4']",Melee
+Arthur: Hapless Hero,40,43,46,29,32,35,25,29,32,26,30,33,21,24,28,157,159,0,Infantry,0,"['3', '4']",Melee
+Arvis: Emperor of Flame,30,33,36,31,34,37,28,31,34,13,17,20,30,33,36,147,148,258,Infantry,0,"['3', '4']",Ranged
+Ashnard: Mad King,40,43,46,34,37,40,18,21,24,32,35,38,27,31,34,166,167,1192,Flying,0,"['3', '4']",Melee
+Astram: Midia%27s Hero,41,44,47,32,35,38,33,36,39,33,36,39,18,21,24,172,172,963,Infantry,0,"['3', '4']",Melee
+Athena: Borderland Sword,33,36,40,28,31,34,35,38,41,24,27,31,21,24,28,156,157,132,Infantry,0,"['3', '4']",Melee
+Aversa: Dark One,39,42,45,30,33,36,31,34,37,13,17,20,21,24,27,149,150,630,Flying,0,"['3', '4']",Ranged
+Ayra: Astra%27s Wielder,37,41,44,30,33,36,34,37,40,28,31,34,18,21,24,162,163,259,Infantry,0,['5'],Melee
+Azama: Carefree Monk,40,43,46,18,21,24,23,26,30,29,32,35,22,25,29,147,148,0,Infantry,0,"['3', '4']",Ranged
+Azura: Celebratory Spirit,33,37,40,27,30,33,32,35,38,19,22,25,22,26,29,149,150,332,Flying,0,['5'],Melee
+Azura: Lady of Ballads,32,35,39,29,32,35,31,34,37,17,20,23,24,28,31,148,150,239,Infantry,0,['5'],Melee
+Azura: Lady of the Lake,33,36,40,28,31,34,30,33,36,18,21,24,24,28,31,148,150,0,Infantry,0,['5'],Melee
+Azura: Vallite Songstress,30,33,37,27,30,33,32,35,38,13,17,20,21,24,28,138,140,694,,0,['5'],Ranged
+Azura: Young Songstress,32,36,39,30,33,36,26,29,32,13,17,20,22,25,29,139,141,648,Infantry,1,"['4', '5']",Ranged
+Bantu: Tiki%27s Guardian,42,45,48,31,34,37,24,28,31,32,35,38,23,26,30,167,169,959,Infantry,0,"['3', '4']",Dragonstone
+Barst: The Hatchet,43,46,49,30,33,36,29,32,35,27,30,33,13,17,20,157,158,0,Infantry,0,"['3', '4']",Melee
+Bartre: Earsome Warrior,43,46,49,37,40,44,22,26,29,32,35,38,22,25,29,171,173,1142,Infantry,1,"['4', '5']",Melee
+Bartre: Fearless Warrior,46,49,52,33,36,39,22,25,29,30,33,36,10,13,17,156,157,0,Infantry,0,"['3', '4']",Melee
+Berkut: Debonair Noble,38,41,44,33,36,39,20,23,26,34,37,41,21,24,28,161,162,946,Infantry,0,['5'],Melee
+Berkut: Prideful Prince,40,43,46,31,34,37,19,22,25,28,31,34,21,24,27,154,154,166,Cavalry,0,"['3', '4']",Melee
+Berkut: Purgatorial Prince,36,40,43,32,35,39,13,17,20,32,35,38,26,30,33,156,158,827,Cavalry,0,['5'],Melee
+Bernadetta: Eternal Loner,34,38,41,29,32,35,35,38,42,19,22,25,23,26,30,155,157,1128,Cavalry,0,['5'],Ranged
+Beruka: Quiet Assassin,43,46,49,25,29,32,20,23,26,34,37,40,19,22,25,156,157,0,Flying,0,"['3', '4']",Melee
+Black Knight: Sinister General,45,48,51,31,34,37,31,34,37,32,35,38,14,18,21,168,169,233,Armored,1,"['4', '5']",Melee
+Boey: Skillful Survivor,40,43,46,25,29,32,23,27,30,29,32,35,14,18,21,148,149,102,Infantry,0,"['3', '4']",Ranged
+Brady: Daunting Priest,37,41,44,30,33,36,29,32,35,20,23,27,24,28,31,156,158,859,Infantry,0,"['3', '4']",Ranged
+Bramimond: The Enigma,35,39,42,37,40,44,23,27,30,18,21,24,32,35,38,161,163,1153,,0,['5'],Ranged
+Brigid: Orgahil Pirate,37,41,44,34,37,40,37,40,44,27,30,33,16,19,22,166,168,1282,Infantry,0,['5'],Ranged
+Brunnya: Devoted General,39,42,45,32,35,38,28,31,34,18,21,24,30,33,36,162,162,1023,Infantry,1,"['4', '5']",Ranged
+Bruno: Masked Hare,38,41,44,26,30,33,21,24,28,32,35,38,11,14,18,143,145,775,Cavalry,0,['5'],Ranged
+Byleth: Fell Star%27s Duo,36,40,43,33,36,39,39,42,46,12,16,19,18,21,24,154,156,1252,Flying,0,['5'],Ranged
+Byleth: Proven Professor,36,40,43,31,34,37,37,40,44,30,33,36,18,21,24,167,169,900,Infantry,0,['5'],Melee
+Byleth: Tested Professor,36,40,43,33,36,39,35,38,42,31,34,37,17,20,23,167,169,904,Infantry,0,['5'],Melee
+Caeda: Princess of Talys,33,36,40,30,33,36,39,42,46,22,25,29,26,30,33,165,167,1173,Flying,0,['5'],Melee
+Caeda: Talys%27s Bride,30,33,36,25,29,32,34,37,40,16,19,22,26,30,33,147,148,117,Infantry,0,['5'],Ranged
+Caeda: Talys%27s Heart,33,36,40,22,25,29,34,37,40,21,24,28,31,34,37,156,157,0,Flying,0,"['3', '4']",Melee
+Cain: The Bull,39,42,45,29,32,35,29,32,35,24,27,31,18,21,24,154,155,0,Cavalry,0,"['3', '4']",Melee
+Caineghis: Gallia%27s Lion King,44,47,50,34,37,40,20,23,27,34,37,40,26,30,33,173,175,797,Armored,0,['5'],Beast
+Camilla: Bewitching Beauty,34,37,41,26,30,33,29,32,35,24,28,31,28,31,34,157,159,0,Flying,0,"['3', '4']",Melee
+Camilla: Flower of Fantasy,33,36,40,34,37,40,26,30,33,13,17,20,27,30,33,149,151,645,Flying,0,['5'],Ranged
+Camilla: Holiday Traveler,36,40,43,30,33,36,32,35,38,28,31,34,20,23,27,161,163,332,Flying,0,['5'],Melee
+Camilla: Light of Nohr,35,39,42,30,33,36,34,37,40,18,21,24,22,25,29,154,156,925,Flying,0,['5'],Ranged
+Camilla: Spring Princess,35,39,42,32,35,38,22,25,29,26,30,33,16,19,22,147,149,56,Flying,0,['5'],Ranged
+Camilla: Steamy Secrets,34,38,41,30,33,36,32,35,38,13,17,20,24,28,31,150,151,723,Flying,1,"['4', '5']",Ranged
+Camilla: Tropical Beauty,35,39,42,30,33,36,33,36,39,20,23,26,16,19,22,149,150,523,Flying,0,['5'],Ranged
+Camus: Sable Knight,39,42,45,29,32,35,30,33,36,28,31,34,13,17,20,154,155,120,Cavalry,0,"['3', '4']",Melee
+Canas: Wisdom Seeker,33,36,40,28,32,35,26,29,32,18,21,24,30,33,36,150,152,499,Infantry,1,"['4', '5']",Ranged
+Catherine: Thunder Knight,40,43,46,36,39,43,38,41,45,26,30,33,20,23,26,175,177,1355,Infantry,0,['5'],Melee
+Catria: Middle Whitewing,35,39,42,28,31,34,31,34,37,25,29,32,22,25,29,157,159,0,Flying,0,"['3', '4']",Melee
+Catria: Mild Middle Sister,38,41,44,35,38,42,33,36,39,24,27,31,21,24,27,166,167,991,Flying,0,['5'],Melee
+Catria: Spring Whitewing,33,36,40,29,32,35,32,35,38,14,18,21,20,23,26,143,145,413,Cavalry,0,['5'],Ranged
+Cecilia: Etrurian General,33,36,40,29,32,35,22,25,29,19,22,25,25,29,32,143,145,0,Cavalry,0,"['3', '4']",Ranged
+Cecilia: Festive Instructor,37,41,44,32,35,38,20,23,26,27,30,33,33,36,39,164,165,684,Armored,1,"['4', '5']",Ranged
+Ced: Hero on the Wind,34,37,41,32,35,38,36,39,42,16,19,22,28,31,34,161,162,1071,Infantry,0,['5'],Ranged
+Celica: Caring Princess,35,39,42,29,32,35,30,33,36,19,22,25,19,22,25,147,148,102,Infantry,0,['5'],Ranged
+Celica: Imprisoned Soul,36,40,43,32,35,38,32,35,38,23,27,30,23,26,30,162,164,385,Infantry,0,['5'],Melee
+Celica: Queen of Valentia,36,40,43,35,38,41,35,38,42,14,18,21,24,28,31,161,163,1056,,0,['5'],Ranged
+Celica: Warrior Priestess,34,38,41,30,33,36,36,39,42,25,29,32,21,24,27,162,163,565,Infantry,0,['5'],Melee
+Chad: Lycian Wildcat,42,45,48,27,30,33,34,37,40,23,26,30,20,23,26,161,162,1020,Infantry,0,"['3', '4']",Ranged
+Charlotte: Money Maiden,43,46,49,33,36,39,29,32,35,21,24,28,16,19,22,157,158,117,Infantry,0,['5'],Melee
+Cherche: Wyvern Friend,43,46,49,35,38,41,22,25,29,29,32,35,12,16,19,156,158,0,Flying,0,"['3', '4']",Melee
+Chrom: Crowned Exalt,38,41,44,38,42,45,23,26,30,30,34,37,21,25,28,167,169,1120,,0,['5'],Ranged
+Chrom: Exalted Prince,44,47,50,34,37,40,22,25,29,28,31,34,13,17,20,156,158,0,Infantry,0,"['3', '4']",Melee
+Chrom: Gifted Leader,48,51,54,37,40,43,16,19,22,32,35,38,26,29,32,174,174,319,Armored,0,['5'],Melee
+Chrom: Knight Exalt,37,41,44,34,37,40,24,28,31,31,34,37,13,17,20,156,157,400,Cavalry,0,['5'],Melee
+Chrom: Spring Exalt,40,43,46,32,35,38,29,32,35,24,28,31,17,20,23,157,158,56,Infantry,0,['5'],Melee
+Clair: Highborn Flier,34,37,41,23,26,30,33,36,39,21,24,28,30,33,36,156,157,71,Flying,0,"['3', '4']",Melee
+Clarine: Refined Noble,32,35,39,22,25,29,30,33,36,19,22,25,25,29,32,143,145,0,Cavalry,0,"['3', '4']",Ranged
+Clarisse: Sniper in the Dark,34,37,41,28,31,34,31,34,37,22,25,29,17,20,23,147,148,146,Infantry,0,"['3', '4']",Ranged
+Claude: Almyra%27s King,39,42,45,33,36,39,37,40,44,20,23,26,22,25,29,166,167,1293,Flying,0,['5'],Ranged
+Claude: The Schemer,35,39,42,30,33,36,34,37,40,17,20,23,18,21,24,149,150,900,Cavalry,0,['5'],Ranged
+Clive: Idealistic Knight,42,45,48,30,33,36,22,25,29,29,32,35,16,19,22,154,155,190,Cavalry,1,"['4', '5']",Melee
+Conrad: Masked Knight,36,40,43,28,31,34,19,22,25,31,34,37,32,35,38,161,162,994,Cavalry,0,"['3', '4']",Melee
+Conrad: Unmasked Knight,35,39,42,29,32,35,20,23,26,30,33,36,32,35,38,161,162,1099,Cavalry,0,"['4', '5']",Melee
+Cordelia: Knight Paradise,38,41,44,29,32,35,35,38,41,24,28,31,14,18,21,156,157,504,Cavalry,0,['5'],Melee
+Cordelia: Knight Paragon,36,40,43,32,35,38,32,35,38,19,22,25,22,25,29,156,158,0,Flying,0,"['3', '4']",Melee
+Cordelia: Perfect Bride,33,36,40,32,35,38,32,35,38,16,19,22,19,22,25,147,148,117,Infantry,0,['5'],Ranged
+Cormag: Aloof Lanceman,39,42,45,33,36,39,29,32,35,30,34,37,20,23,27,166,168,1012,Flying,0,"['3', '4']",Melee
+Corrin: Bloodbound Beast,39,42,45,35,38,42,35,38,42,30,33,36,22,26,29,176,178,1191,Infantry,0,['5'],Dragonstone
+Corrin: Child of Dusk,38,41,44,35,38,42,36,40,43,31,34,37,25,29,32,181,183,1306,,0,['5'],Dragonstone
+Corrin: Dream Prince,39,42,45,32,35,38,32,35,38,28,31,34,21,24,28,167,168,645,Infantry,0,['5'],Dragonstone
+Corrin: Dream Princess,38,41,44,28,31,34,34,37,41,29,32,35,23,27,30,167,169,645,Infantry,0,['5'],Dragonstone
+Corrin: Enjoying Tradition,34,37,41,29,32,35,26,30,33,31,34,37,14,18,21,150,152,348,Infantry,1,"['4', '5']",Ranged
+Corrin: Fateful Prince,38,42,45,29,32,35,29,32,35,24,28,31,21,24,28,157,159,0,Infantry,0,"['3', '4']",Melee
+Corrin: Fateful Princess,37,41,44,24,27,31,31,34,37,31,34,37,18,21,24,156,158,0,Infantry,0,"['3', '4']",Dragonstone
+Corrin: Novice Vacationer,31,34,37,28,31,34,31,34,37,19,22,25,23,26,30,147,148,176,Flying,0,['5'],Ranged
+Corrin: Wailing Soul,40,43,46,32,35,38,34,37,41,28,31,34,23,27,30,172,174,827,Infantry,0,['5'],Dragonstone
+Cynthia: Hero Chaser,34,38,41,29,32,35,34,37,40,23,27,30,25,29,32,162,163,861,Flying,0,"['3', '4']",Melee
+Darros: Seawalker,43,46,49,33,36,39,29,32,35,34,37,40,18,21,24,172,172,1282,Infantry,1,"['4', '5']",Melee
+Death Knight: The Reaper,36,40,43,32,35,38,22,25,29,26,30,33,23,27,30,156,158,921,Cavalry,0,"['3', '4']",Melee
+Deirdre: Lady of the Forest,33,36,40,30,33,36,24,28,31,12,16,19,32,35,38,147,149,256,Infantry,0,['5'],Ranged
+Delthea: Free Spirit,30,33,36,33,36,39,31,34,37,10,13,17,28,31,34,147,148,161,Infantry,0,['5'],Ranged
+Delthea: Tatarrah%27s Puppet,38,41,44,33,36,39,30,33,36,16,19,22,24,28,31,156,157,829,Infantry,0,"['3', '4']",Ranged
+Dheginsea: Harvest Goldoan,42,45,48,41,45,48,11,14,18,38,41,44,36,39,43,183,185,1344,Armored,0,['5'],Dragonstone
+Dimitri: King of Faerghus,37,41,44,37,40,44,33,36,39,37,40,44,15,19,22,175,177,1293,Infantry,0,['5'],Melee
+Dimitri: Savior King,36,40,43,38,41,45,37,41,44,34,37,40,14,18,21,176,178,1366,,0,['5'],Melee
+Dimitri: The Protector,36,40,43,33,36,39,26,29,32,31,34,37,15,18,21,156,157,900,Cavalry,0,['5'],Melee
+Donnel: Village Hero,40,43,46,32,35,38,26,29,32,29,32,35,20,23,27,162,163,0,Infantry,0,"['3', '4']",Melee
+Dorcas: Pumpkin Smasher,46,49,52,38,41,45,22,25,29,34,37,40,18,21,24,173,174,619,Armored,1,"['4', '5']",Melee
+Dorcas: Serene Warrior,42,45,48,32,35,38,20,23,26,32,35,38,21,24,28,162,163,286,Infantry,0,['5'],Melee
+Dorothea: Solar Songstress,34,38,41,34,37,41,33,36,39,12,16,19,27,30,33,156,158,1252,Infantry,0,['5'],Ranged
+Dozla: Harvest Attendant,42,45,48,35,38,42,25,29,32,32,35,38,24,27,31,173,175,979,Armored,0,['5'],Ranged
+Draug: Gentle Giant,47,50,53,26,30,33,29,32,35,36,39,42,15,18,21,168,169,0,Armored,0,"['3', '4']",Melee
+Duma: God of Strength,45,48,51,37,40,44,18,21,24,31,34,37,28,31,34,174,175,727,,0,['5'],Dragonstone
+Echidna: Unyielding Idealist,42,45,48,31,34,37,33,36,39,27,30,33,24,27,31,172,173,1020,Infantry,0,"['3', '4']",Melee
+Edelgard: Adrestian Emperor,43,46,49,41,45,48,12,16,19,40,43,47,32,35,38,184,186,1293,Armored,0,['5'],Melee
+Edelgard: Flame Emperor,42,45,48,39,42,46,13,17,20,36,39,42,33,36,39,178,180,1183,,0,['5'],Melee
+Edelgard: The Future,38,41,44,36,39,43,26,30,33,34,37,40,18,21,24,167,169,900,Infantry,0,['5'],Melee
+Effie: Army of One,47,50,53,37,40,43,19,22,25,29,33,36,20,23,27,167,169,0,Armored,0,"['3', '4']",Melee
+Eir: Merciful Death,32,35,39,29,32,35,34,37,40,11,14,18,28,31,34,149,150,677,,0,['5'],Ranged
+Eir: Renewed Life,35,39,42,27,31,34,33,36,39,18,21,24,31,34,37,160,161,1063,Flying,1,"['4', '5']",Ranged
+Eirika: Anamnesis Lady,33,36,40,28,31,34,32,35,38,17,20,23,19,22,25,144,145,357,Cavalry,0,['5'],Ranged
+Eirika: Gentle as Snow,39,42,45,33,36,39,20,23,26,26,30,33,31,34,37,164,165,684,Armored,0,['5'],Ranged
+Eirika: Graceful Resolve,34,38,41,28,31,34,36,39,42,24,27,31,18,21,24,155,157,636,,0,['5'],Melee
+Eirika: Restoration Lady,39,42,45,23,26,30,32,35,38,23,26,30,24,28,31,156,158,13,Infantry,0,"['3', '4']",Melee
+Eldigan: Lionheart,42,45,48,29,32,35,21,24,28,31,34,37,15,19,22,153,155,25,Cavalry,0,['5'],Melee
+Eldigan: Strutting Lion,40,43,46,35,38,42,22,26,29,34,37,40,14,18,21,161,163,1314,Flying,1,"['4', '5']",Melee
+Eleonora: Shooting Starlet,39,42,45,34,37,41,35,38,42,22,25,28,21,24,27,166,167,1082,Infantry,0,['5'],Ranged
+Elincia: Estival Princess,31,34,38,26,29,32,32,35,38,17,20,23,18,21,24,139,140,554,Infantry,0,['5'],Ranged
+Elincia: Lost Princess,32,35,39,31,34,37,33,36,39,21,24,28,24,27,31,156,157,225,Flying,0,['5'],Melee
+Elise: Bubbling Flower,31,34,38,30,33,36,34,37,40,15,18,21,19,22,25,144,145,720,Cavalry,0,['5'],Ranged
+Elise: Budding Flower,27,30,33,29,32,35,29,32,35,16,19,22,29,32,35,145,145,0,Cavalry,0,['5'],Ranged
+Elise: Tropical Flower,31,34,37,33,36,39,31,34,37,15,18,21,22,25,29,147,148,176,Infantry,0,['5'],Ranged
+Eliwood: Blazing Knight,34,37,41,33,36,40,31,34,37,30,33,36,12,16,19,155,157,876,,0,['5'],Melee
+Eliwood: Devoted Love,44,47,50,35,38,41,29,32,35,25,29,32,25,29,32,174,175,377,Armored,1,"['4', '5']",Melee
+Eliwood: Knight of Lycia,35,39,42,28,31,34,26,30,33,20,23,26,29,32,35,154,155,0,Cavalry,0,"['3', '4']",Melee
+Eliwood: Marquess Pherae,36,40,43,34,37,40,32,35,38,29,32,35,14,18,21,161,162,925,Cavalry,0,['5'],Melee
+Emmeryn: Gentle Exalt,40,43,46,29,32,35,31,34,37,20,23,26,26,30,33,161,162,1219,Infantry,0,"['3', '4']",Ranged
+Ena: Autumn Tactician,41,44,47,33,36,39,20,23,27,34,37,40,33,36,39,176,177,1345,Infantry,1,"['4', '5']",Dragonstone
+Ephraim: Dynastic Duo,37,41,44,36,39,43,26,30,33,34,37,40,22,25,29,171,173,1008,Infantry,0,['5'],Melee
+Ephraim: Legendary Lord,40,43,46,33,36,39,23,27,30,30,33,36,15,18,21,156,157,391,,0,['5'],Melee
+Ephraim: Restoration Lord,42,45,48,32,35,38,22,25,29,29,32,35,17,20,23,157,158,13,Infantry,0,['5'],Melee
+Ephraim: Sacred Twin Lord,43,46,49,35,38,41,23,27,30,34,37,40,23,26,30,173,175,565,Armored,0,['5'],Melee
+Ephraim: Sparkling Gallantly,42,45,48,38,41,45,20,23,26,33,36,39,25,29,32,173,175,684,Armored,0,['5'],Melee
+Eremiya: Bishop of Woe,41,44,47,29,32,35,32,35,38,20,23,26,24,27,31,161,162,1265,Infantry,0,"['3', '4']",Ranged
+Est: Junior Whitewing,33,36,40,32,35,38,26,30,33,21,24,28,29,32,35,156,158,0,Flying,0,"['3', '4']",Melee
+Est: Springtime Flier,35,39,42,35,38,42,32,35,38,13,17,20,23,26,30,154,156,1140,Flying,0,['5'],Ranged
+Ethlyn: Glimmering Lady,33,37,40,33,36,39,37,41,44,12,16,19,24,28,31,157,158,1314,Flying,0,['5'],Ranged
+Ethlyn: Spirited Princess,34,38,41,24,28,31,31,34,37,22,26,29,16,20,23,145,146,586,Cavalry,1,"['4', '5']",Ranged
+Ewan: Eager Student,34,38,41,34,37,41,30,33,36,20,23,27,32,35,39,165,167,1008,Infantry,0,['5'],Ranged
+Eyvel: Mistress of Fiana,38,41,44,30,33,36,32,35,38,35,38,42,22,25,29,172,173,1037,Infantry,0,['5'],Melee
+Fae: Divine Dragon,43,46,50,30,33,36,25,28,31,22,25,29,26,30,33,161,163,0,Infantry,0,"['3', '4']",Dragonstone
+Fae: Holiday Dear,42,45,48,32,35,38,22,26,29,30,33,36,37,41,44,179,180,684,Armored,0,['5'],Dragonstone
+Faye: Devoted Heart,39,42,45,27,30,33,21,25,28,22,26,29,28,31,34,153,154,71,Infantry,0,['5'],Ranged
+Faye: Drawn Heartstring,40,43,46,36,40,43,20,23,27,32,35,38,35,38,42,178,180,1099,Armored,0,['5'],Ranged
+Felicia: Maid Mayhem,31,34,38,20,23,26,34,37,40,15,18,21,32,35,38,147,148,0,Infantry,0,"['3', '4']",Ranged
+Felicia: Off the Menu,39,43,46,26,30,33,34,37,40,26,30,33,32,35,38,174,175,806,Armored,0,['5'],Melee
+Ferdinand: Noblest of Nobles,37,41,44,29,32,35,32,35,38,27,30,33,21,24,28,161,163,1128,Cavalry,0,"['3', '4']",Melee
+Finn: Lance of Legend,36,40,43,31,34,37,30,33,36,29,32,35,15,18,21,156,157,443,Cavalry,1,"['4', '5']",Melee
+Fiora: Airborne Warrior,35,38,42,29,32,35,35,38,41,18,21,24,34,37,41,166,167,1110,Flying,0,['5'],Melee
+Fiora: Defrosted Illian,36,40,43,29,32,35,34,37,40,22,26,29,24,28,31,162,163,890,Flying,1,"['4', '5']",Melee
+Fir: Student of Spring,35,39,42,32,35,38,38,41,45,24,28,31,21,24,27,166,168,1140,Flying,0,['5'],Melee
+Fir: Sword Student,37,41,44,22,25,29,33,36,39,21,24,28,28,31,34,156,158,0,Infantry,0,"['3', '4']",Melee
+Fjorm: Bride of Rime,39,42,45,31,34,37,31,34,37,13,17,20,20,23,27,149,151,838,Flying,0,['5'],Ranged
+Fjorm: New Traditions,35,39,42,32,35,38,32,35,38,17,20,23,18,21,24,149,150,698,Flying,0,['5'],Ranged
+Fjorm: Princess of Ice,35,39,42,26,30,33,28,31,34,26,30,33,31,34,37,163,164,299,,0,['5'],Melee
+Flame Emperor: Bringer of War,47,50,54,37,40,43,22,25,29,34,37,40,23,26,30,178,179,1131,Armored,0,"['3', '4']",Melee
+Flayn: Playing Innocent,36,40,43,36,39,42,23,27,30,18,21,24,32,35,38,161,162,1355,Flying,0,['5'],Ranged
+Flora: Cold as Ice,34,38,41,31,34,37,20,23,26,14,18,21,35,38,41,150,151,589,Infantry,0,['5'],Ranged
+Flora: Signature Dish,40,43,46,35,38,41,19,22,25,25,29,32,35,38,41,169,170,806,Armored,0,['5'],Ranged
+Florina: Lovely Flier,39,42,45,25,29,32,24,27,31,22,25,29,31,34,37,156,158,0,Flying,0,"['3', '4']",Melee
+Forrest: Fashion Forward,35,39,42,29,32,35,23,26,30,16,19,22,32,35,38,150,152,1161,Cavalry,0,"['3', '4']",Ranged
+Forsyth: Loyal Lieutenant,44,47,50,37,40,44,17,20,23,36,39,42,30,33,36,179,180,991,Armored,0,['5'],Melee
+Frederick: Horizon Watcher,36,40,43,29,32,35,28,31,34,24,28,31,14,18,21,148,149,148,Infantry,0,['5'],Ranged
+Frederick: Polite Knight,40,43,46,32,35,38,22,25,29,33,36,39,11,14,18,153,154,0,Cavalry,0,"['3', '4']",Melee
+Gaius: Candy Stealer,39,42,45,25,29,32,33,36,39,19,22,25,16,19,22,147,148,0,Infantry,0,"['3', '4']",Ranged
+Gaius: Thief Exposed,31,34,37,26,30,33,34,37,40,16,19,22,24,28,31,147,148,148,Infantry,0,['5'],Ranged
+Gangrel: Plegia%27s Mad King,42,45,48,29,32,35,35,38,41,21,24,28,24,27,31,166,167,1220,Infantry,0,"['3', '4']",Ranged
+Garon: King of Nohr,40,43,46,30,33,36,19,22,25,30,33,36,29,32,35,163,163,595,Infantry,0,"['3', '4']",Dragonstone
+Gatrie: Armored Amour,44,47,50,39,42,45,13,17,20,40,44,47,32,35,38,184,185,1324,Armored,0,['5'],Melee
+Geese: A Life at Sea,43,46,49,35,38,42,32,35,38,29,32,35,18,21,24,172,173,1282,Infantry,0,"['4', '5']",Melee
+Genny: Dressed with Care,32,35,39,33,36,39,21,24,28,11,14,18,31,34,37,143,144,806,Cavalry,0,['5'],Ranged
+Genny: Endearing Ally,29,32,35,32,35,38,22,25,29,18,21,24,31,34,37,147,148,102,Infantry,0,['5'],Ranged
+Gerik: Desert Tiger,44,47,50,34,37,40,33,36,39,26,30,33,19,22,26,171,173,1008,Infantry,0,['5'],Melee
+Gerome: Masked Rider,42,45,48,35,38,41,22,25,29,31,34,37,16,19,22,161,162,406,Flying,1,"['4', '5']",Melee
+Gharnef: Dark Pontifex,34,38,41,26,30,33,31,34,37,23,27,30,20,23,26,151,152,659,Infantry,0,"['3', '4']",Ranged
+Gordin: Altean Archer,40,43,46,28,31,34,22,25,29,29,32,35,13,17,20,147,149,0,Infantry,0,"['3', '4']",Ranged
+Gray: Wry Comrade,40,43,46,32,35,38,29,32,35,27,30,33,19,22,26,162,163,161,Infantry,0,['5'],Melee
+Greil: Heroic Exemplar,44,47,50,38,41,45,14,18,21,35,38,41,27,30,33,173,175,736,Armored,0,['5'],Melee
+Gunnthrá: Beaming Smile,35,39,42,30,33,36,34,37,40,13,17,20,21,24,28,149,151,868,Cavalry,0,['5'],Ranged
+Gunnthrá: Voice of Dreams,33,37,40,28,31,34,30,33,36,15,19,22,22,25,29,144,146,329,,0,['5'],Ranged
+Gunnthrá: Year%27s First Dream,34,38,41,31,34,37,34,37,40,24,27,31,22,26,29,161,163,698,Flying,0,['5'],Melee
+Gunter: Inveterate Soldier,39,43,46,28,32,35,21,24,27,29,33,36,14,18,21,149,150,0,Cavalry,0,"['3', '4']",Melee
+Gwendolyn: Adorable Knight,46,49,52,26,30,33,21,24,28,35,38,41,24,28,31,168,170,0,Armored,0,"['3', '4']",Melee
+Haar: Black Tempest,42,45,48,34,37,40,22,25,29,33,36,39,14,18,21,160,162,798,Flying,0,"['3', '4']",Melee
+Hana: Focused Ninja,39,42,45,33,36,39,37,40,44,25,28,32,26,30,33,175,177,1374,Infantry,1,"['4', '5']",Melee
+Hana: Focused Samurai,34,37,41,32,35,38,33,36,39,20,23,26,22,26,29,156,158,0,Infantry,0,"['3', '4']",Melee
+Hardin: Dark Emperor,41,45,48,31,34,37,24,28,31,33,36,39,29,32,35,174,175,385,Armored,0,['5'],Melee
+Hawkeye: Desert Guardian,42,45,48,30,33,36,19,22,25,24,28,31,27,30,33,157,158,0,Infantry,0,"['3', '4']",Melee
+Heath: Wandering Knight,36,40,43,32,35,38,30,33,36,29,33,36,23,27,30,167,168,1110,Flying,0,"['3', '4']",Melee
+Hector: Brave Warrior,45,48,51,34,37,40,19,22,25,36,39,43,24,28,31,173,175,565,Armored,0,['5'],Melee
+Hector: Dressed-Up Duo,44,47,50,38,41,45,22,26,29,36,39,42,23,27,30,179,181,979,Armored,0,['5'],Melee
+Hector: General of Ostia,49,52,55,33,36,39,21,24,28,34,37,40,16,19,22,168,169,0,Armored,0,['5'],Melee
+Hector: Just Here to Fight,47,50,53,35,38,42,18,21,24,37,40,43,21,24,27,173,174,372,Armored,0,['5'],Melee
+Hector: Marquess of Ostia,44,47,50,37,40,44,20,23,26,35,38,41,22,26,29,173,175,511,,0,['5'],Melee
+Hel: Death Sovereign,36,40,43,35,38,41,38,41,45,26,30,33,15,18,21,166,168,1274,,0,['5'],Melee
+Helbindi: Savage Scourge,41,44,47,32,35,38,14,18,21,32,35,38,28,31,34,162,163,596,Infantry,0,['5'],Melee
+Helbindi: Seaside Scourge,41,44,47,33,36,39,14,18,21,34,37,41,30,33,36,167,169,868,Infantry,0,['5'],Melee
+Henry: Happy Vampire,33,36,40,30,33,36,31,34,37,22,26,29,33,36,39,164,166,270,Armored,0,['5'],Ranged
+Henry: Twisted Mind,42,45,48,20,23,26,19,22,25,29,32,35,22,25,29,147,148,0,Infantry,0,"['3', '4']",Ranged
+Hilda: Idle Maiden,40,43,46,34,37,40,34,37,40,25,28,31,20,23,27,168,169,916,Infantry,0,['5'],Melee
+Hinata: Samurai Groom,44,47,50,34,37,40,23,27,30,37,40,43,18,21,24,171,172,1205,Infantry,1,"['4', '5']",Melee
+Hinata: Wild Samurai,44,47,50,29,32,35,21,24,28,33,36,39,15,18,21,157,158,0,Infantry,0,"['3', '4']",Melee
+Hinoka: Blue Sky Warrior,34,37,41,29,32,35,32,35,38,13,17,20,25,29,32,149,151,446,Flying,0,['5'],Ranged
+Hinoka: Relaxed Warrior,34,38,41,32,35,38,32,35,38,12,16,19,23,26,30,149,151,720,Flying,0,['5'],Ranged
+Hinoka: Warrior Princess,37,41,44,32,35,38,29,32,35,22,25,29,21,24,27,156,158,0,Flying,0,['5'],Melee
+Hríd: Icy Blade,37,41,44,34,37,41,13,17,20,33,36,39,22,26,29,156,158,664,,0,['5'],Melee
+Hríd: Resolute Prince,39,42,45,35,38,41,16,19,22,33,36,39,23,27,30,161,162,698,Flying,0,['5'],Melee
+Hubert: Sinister Servant,38,41,44,36,39,42,29,32,35,16,19,22,22,25,29,156,157,916,Infantry,0,['5'],Ranged
+Iago: Nohr%27s Tactician,39,42,45,35,38,41,23,27,30,20,23,26,29,32,35,161,162,1165,Infantry,0,"['3', '4']",Ranged
+Idunn: Dark Priestess,42,45,48,32,35,38,22,26,29,36,39,43,31,34,38,178,180,764,Armored,0,['5'],Dragonstone
+Idunn: Dragonkin Duo,43,46,49,34,37,40,22,26,29,34,37,41,35,38,42,183,185,1140,Armored,0,['5'],Dragonstone
+Igrene: Nabata Protector,39,42,45,34,37,41,34,37,40,23,26,30,21,24,27,166,167,1020,Infantry,0,['5'],Ranged
+Ike: Brave Mercenary,40,43,46,33,36,39,24,28,31,32,35,38,17,20,23,161,162,210,Infantry,0,['5'],Melee
+Ike: Stalwart Heart,42,45,48,34,37,40,35,38,41,32,35,38,15,19,22,173,174,736,Armored,0,['5'],Melee
+Ike: Vanguard Legend,37,41,44,33,36,39,27,30,33,32,35,38,18,21,24,162,163,363,,0,['5'],Melee
+Ike: Young Mercenary,39,42,45,32,35,38,28,31,34,29,32,35,14,18,21,157,158,83,Infantry,0,['5'],Melee
+Ike: Zeal Unleashed,36,40,43,32,35,38,39,42,46,29,32,35,20,23,26,171,173,1191,Infantry,0,['5'],Melee
+Ilyana: Hungering Mage,35,39,42,35,38,41,29,32,35,13,17,20,37,40,44,165,167,1325,Infantry,0,"['3', '4']",Ranged
+Ilyana: Treat Harvester,37,41,44,35,38,42,20,23,26,26,30,33,34,37,40,168,170,979,Armored,0,['5'],Ranged
+Ingrid: Solstice Knight,35,39,42,31,34,37,39,42,46,22,25,29,23,26,29,165,167,1252,Flying,0,['5'],Melee
+Inigo: Indigo Dancer,33,37,40,24,28,31,30,33,36,19,22,25,17,20,23,139,140,239,Infantry,0,['5'],Ranged
+Innes: Flawless Form,39,42,45,30,33,36,34,37,40,27,30,33,17,20,23,162,162,504,Flying,0,['5'],Melee
+Innes: Regal Strategician,32,35,39,30,33,36,31,34,37,11,14,18,28,31,34,147,148,194,Infantry,0,['5'],Ranged
+Ishtar: Thunder Goddess,34,38,41,31,34,37,33,36,39,13,17,20,23,26,30,150,152,462,Infantry,0,['5'],Ranged
+Ishtar: Thunder%27s Waltz,33,36,40,31,34,37,33,36,39,12,16,19,19,22,26,143,145,946,Flying,0,['5'],Ranged
+Itsuki: Finding a Path,37,41,44,34,37,40,26,30,33,30,33,36,29,32,35,172,173,1082,Infantry,1,"['4', '5']",Melee
+Jaffar: Angel of Death,38,41,44,23,26,30,30,33,36,22,25,29,19,22,25,147,148,40,Infantry,0,['5'],Ranged
+Jaffar: Angel of Night,41,44,47,32,35,38,34,37,40,27,31,34,24,27,31,173,175,1047,Armored,1,"['4', '5']",Ranged
+Jagen: Veteran Knight,34,37,40,24,27,31,21,24,27,22,25,28,32,35,38,148,149,0,Cavalry,0,"['3', '4']",Melee
+Jakob: Devoted Monster,38,42,45,32,35,38,20,23,26,30,33,36,29,32,35,164,165,270,Armored,0,['5'],Ranged
+Jakob: Devoted Servant,35,39,42,25,29,32,27,31,34,22,25,29,21,24,28,147,149,0,Infantry,0,"['3', '4']",Ranged
+Jamke: Prince of Verdane,34,38,41,33,36,39,28,32,35,25,29,32,13,17,20,151,152,579,Infantry,0,"['3', '4']",Ranged
+Jeorge: Perfect Shot,34,37,41,29,32,35,29,32,35,21,24,28,19,22,25,147,148,0,Infantry,0,"['3', '4']",Ranged
+Jill: Fiery Dracoknight,36,40,43,36,39,43,37,40,44,33,36,39,13,17,20,171,173,1324,Flying,0,['5'],Melee
+Jorge: Traveling Peddler,42,45,48,33,36,39,23,27,30,32,35,38,25,29,32,171,172,1294,Infantry,0,"['3', '4']",Ranged
+Joshua: Tempest King,36,40,43,28,31,34,32,35,38,26,30,33,24,28,31,163,164,292,Infantry,1,"['4', '5']",Melee
+Joshua: Tropical Gambler,36,40,43,33,36,39,36,39,43,24,28,31,21,24,28,166,168,1232,Infantry,0,['5'],Ranged
+Julia: Crusader of Light,36,40,43,36,39,43,24,28,31,16,19,22,33,36,39,161,163,937,,0,['5'],Ranged
+Julia: Heart Usurped,35,39,42,38,41,45,21,24,28,13,17,20,37,40,44,160,162,1191,Infantry,0,['5'],Ranged
+Julia: Naga%27s Blood,34,38,41,32,35,38,23,26,30,13,17,20,29,32,35,147,149,13,Infantry,0,['5'],Ranged
+Julian: Tender Thief,36,40,43,35,38,42,35,38,41,30,33,36,14,18,21,166,168,1264,Infantry,0,['5'],Ranged
+Julius: Scion of Darkness,34,38,41,32,35,38,24,27,31,12,16,19,32,35,38,150,152,466,Infantry,0,"['3', '4']",Ranged
+Kaden: Kitsune Braggart,34,38,41,29,32,35,33,36,39,22,25,29,22,25,29,155,157,748,Cavalry,0,['5'],Beast
+Kagero: Beverage Ninja,37,41,44,35,38,41,18,21,24,29,32,35,30,33,36,164,165,615,Armored,0,['5'],Ranged
+Kagero: Honorable Ninja,28,31,34,32,35,38,29,32,35,19,22,25,24,28,31,147,148,0,Infantry,0,"['3', '4']",Ranged
+Kagero: Spring Ninja,33,36,40,32,35,38,31,34,37,14,18,21,23,27,30,149,151,413,Flying,0,['5'],Ranged
+Kana: Dragon Princess,36,40,43,26,30,33,31,34,37,30,33,36,23,26,30,162,164,446,Infantry,0,['5'],Dragonstone
+Kana: Dragon Spawn,36,40,43,27,31,34,30,33,36,28,31,34,25,29,32,163,164,455,Infantry,0,"['3', '4']",Dragonstone
+Karel: Sword Demon,44,47,50,26,30,33,32,35,38,22,25,29,17,20,23,156,158,40,Infantry,0,['5'],Melee
+Karla: Sword Vassal,39,42,45,32,35,38,37,40,44,20,23,26,19,22,25,162,163,491,Infantry,0,['5'],Melee
+Katarina: Wayward One,31,34,37,29,32,35,31,34,37,12,15,19,29,32,35,147,148,132,Infantry,0,['5'],Ranged
+Kaze: Easygoing Ninja,31,34,37,27,30,33,33,36,39,13,17,20,31,34,37,150,151,454,Infantry,0,"['3', '4']",Ranged
+Keaton: Lupine Collector,42,45,48,38,41,45,21,24,27,35,38,42,16,19,22,167,168,748,Infantry,0,['5'],Beast
+Kempf: Conniving General,39,42,45,30,33,36,30,33,36,24,27,31,23,26,30,161,162,1042,Cavalry,0,"['3', '4']",Melee
+Kiria: Cool Façade,34,38,41,38,41,45,17,20,23,25,29,32,31,34,37,161,163,1082,Infantry,0,['5'],Ranged
+Kjelle: Fair Fighter,44,47,50,37,40,44,19,22,25,34,37,40,24,28,31,173,175,859,Armored,0,['5'],Melee
+Klein: Silver Nobleman,36,40,43,27,31,34,30,33,36,17,20,23,21,24,28,147,149,25,Infantry,0,"['3', '4']",Ranged
+Kliff: Curious Spirit,33,37,40,27,30,33,33,37,40,21,25,28,25,28,32,156,158,628,Infantry,0,['5'],Ranged
+Kris: Unknown Hero,36,40,43,34,37,40,37,40,44,26,30,33,22,25,29,171,173,1264,Infantry,0,['5'],Melee
+Kris: Unsung Hero,36,40,43,34,37,40,37,40,44,26,30,33,22,25,29,171,173,1264,Infantry,0,['5'],Melee
+Kronya: Gleaming Blade,41,44,47,27,31,34,36,39,42,19,22,25,22,26,29,161,162,912,Infantry,0,"['3', '4']",Ranged
+L%27Arachel: Harvest Princess,35,39,42,33,36,39,31,34,37,19,22,26,16,20,23,150,152,979,Cavalry,0,['5'],Ranged
+L%27Arachel: Princess of Light,30,33,36,30,33,36,28,31,34,13,17,20,28,31,34,144,145,357,Cavalry,0,"['3', '4']",Ranged
+Lachesis: Ballroom Bloom,33,37,40,34,37,41,23,27,30,16,19,22,34,37,40,156,158,1314,Flying,0,"['4', '5']",Ranged
+Lachesis: Lionheart%27s Sister,35,39,42,29,32,35,22,25,28,19,22,25,26,30,33,147,148,25,Infantry,0,"['3', '4']",Ranged
+Laegjarn: Burning Sun,34,37,41,31,34,37,34,37,40,17,20,23,18,21,24,149,150,868,Flying,0,['5'],Ranged
+Laegjarn: New Experiences,34,38,41,29,32,35,32,35,38,32,35,38,13,17,20,156,157,698,Cavalry,1,"['4', '5']",Melee
+Laegjarn: Sheathed Steel,38,41,44,29,32,35,33,36,39,33,36,39,13,17,20,161,162,596,Flying,0,['5'],Melee
+Laevatein: Bonfire%27s Blaze,34,38,41,35,38,42,13,16,20,28,31,34,23,26,30,148,150,868,Flying,0,['5'],Ranged
+Laevatein: Kumade Warrior,30,33,36,33,36,39,27,30,33,24,27,31,15,18,21,144,145,698,Cavalry,0,['5'],Ranged
+Laevatein: Ninja of Múspell,37,41,44,39,42,46,14,18,21,34,37,41,31,34,37,171,173,1373,Flying,0,['5'],Melee
+Laevatein: Searing Steel,35,39,42,34,37,40,28,31,34,31,34,37,19,22,25,162,163,596,Infantry,0,['5'],Melee
+Larcei: Keen Kin,38,41,44,33,36,39,37,40,44,26,30,33,22,25,28,171,173,1071,Infantry,0,['5'],Melee
+Larum: Sprightly Dancer,34,37,41,29,32,35,36,39,43,15,18,21,27,30,33,156,157,1020,Infantry,0,['5'],Ranged
+Laslow: Dancing Duelist,41,44,47,32,35,38,23,26,30,27,30,33,19,22,25,157,158,0,Infantry,0,"['3', '4']",Melee
+Leanne: Forest%27s Song,32,36,39,23,27,30,34,37,40,12,16,19,31,34,37,149,150,708,Flying,0,['5'],Beast
+Legault: The Hurricane,35,39,42,28,31,34,35,38,41,21,24,27,16,19,22,150,151,491,Infantry,0,"['3', '4']",Ranged
+Legion: Masked Maniac,43,46,49,33,36,39,32,35,38,19,22,25,15,18,21,157,157,134,Infantry,0,"['3', '4']",Melee
+Leif: Prince of Leonster,36,40,43,29,32,35,35,38,41,26,30,33,20,23,26,162,163,433,Infantry,0,['5'],Melee
+Leif: Unifier of Thracia,36,40,43,35,38,42,19,22,26,25,29,32,24,27,31,155,157,999,,0,['5'],Ranged
+Leila: Rose amid Fangs,36,40,43,33,36,39,38,41,45,20,23,27,23,26,30,165,167,1110,Infantry,0,['5'],Ranged
+Lena: Tender Angel,36,40,43,29,32,35,25,29,32,21,24,28,34,37,40,161,163,1264,Infantry,0,"['3', '4']",Ranged
+Lene: Yearning Dancer,32,35,39,24,28,31,32,35,38,20,23,27,24,28,31,148,150,462,Infantry,0,['5'],Melee
+Leo: Extra Tomatoes,33,37,40,29,33,36,18,21,24,23,27,30,24,28,31,145,146,811,Cavalry,1,"['4', '5']",Ranged
+Leo: Seashore%27s Prince,34,37,41,29,32,35,23,27,30,13,16,20,32,35,38,146,148,176,Infantry,0,['5'],Ranged
+Leo: Sorcerous Prince,35,39,42,25,29,32,19,22,25,22,25,29,26,30,33,144,146,0,Cavalry,0,['5'],Ranged
+Leon: True of Heart,35,39,42,31,34,37,27,30,33,26,30,33,12,15,19,147,149,161,Infantry,0,"['3', '4']",Ranged
+Lethe: Gallia%27s Valkyrie,38,41,44,30,33,36,35,38,41,22,26,29,15,19,22,156,157,797,Cavalry,0,['5'],Beast
+Lethe: New Year%27s Claw,38,41,44,32,35,38,38,41,45,23,27,30,14,18,21,161,163,1063,Cavalry,0,['5'],Beast
+Lewyn: Guiding Breeze,34,38,41,31,34,37,34,37,40,13,17,20,22,25,29,150,152,582,Infantry,0,['5'],Ranged
+Libra: Fetching Friar,36,40,43,32,35,38,29,32,35,24,28,31,25,29,32,163,164,533,Infantry,0,"['3', '4']",Melee
+Líf: Lethal Swordsman,39,42,45,35,38,42,26,30,33,31,34,37,25,29,32,172,174,1092,,0,['5'],Melee
+Lilina: Beachside Bloom,32,35,38,35,38,42,22,25,29,12,16,19,32,35,38,148,150,887,Cavalry,0,['5'],Ranged
+Lilina: Blush of Youth,31,34,37,32,35,38,26,30,33,17,20,23,22,26,29,144,145,372,Cavalry,0,['5'],Ranged
+Lilina: Delightful Noble,32,35,39,34,37,40,22,25,29,16,19,22,27,31,34,146,148,0,Infantry,0,"['3', '4']",Ranged
+Lilith: Astral Daughter,35,39,42,33,36,40,37,41,44,23,27,30,27,30,33,172,174,1161,Flying,0,['5'],Dragonstone
+Linde: Light Mage,32,35,39,32,35,38,33,36,39,11,14,18,23,27,30,146,148,0,Infantry,0,['5'],Ranged
+Linde: Summer Rays,30,33,36,31,34,37,32,35,38,12,16,19,23,26,30,143,145,523,Cavalry,0,['5'],Ranged
+Linus: Mad Dog,39,42,45,34,37,40,30,33,36,29,32,35,16,19,22,163,163,495,Infantry,0,"['3', '4']",Melee
+Lissa: Pure Joy,39,43,46,30,33,36,26,30,33,32,35,38,31,34,37,174,175,319,Armored,0,['5'],Melee
+Lissa: Sprightly Cleric,35,39,42,23,26,30,22,25,29,24,28,31,26,30,33,147,149,0,Infantry,0,"['3', '4']",Ranged
+Lloyd: White Wolf,38,41,44,29,32,35,32,35,38,17,20,23,26,30,33,157,158,106,Infantry,0,"['3', '4']",Melee
+Loki: Spring Trickster,35,39,42,28,31,34,31,34,37,23,27,30,22,25,28,155,156,779,Flying,1,"['4', '5']",Ranged
+Loki: The Trickster,39,42,45,30,33,36,32,35,38,12,16,19,22,25,29,150,152,628,Infantry,0,['5'],Ranged
+Lon%27qu: Solitary Blade,42,45,48,25,29,32,36,39,42,19,22,25,19,22,25,156,157,0,Infantry,0,"['3', '4']",Melee
+Lorenz: Highborn Heat,42,45,48,29,32,35,28,31,34,22,25,29,25,29,32,161,163,1252,Infantry,1,"['4', '5']",Ranged
+Louise: Eternal Devotion,35,39,42,28,31,34,31,34,37,13,17,20,26,30,33,150,151,842,Cavalry,1,"['4', '5']",Ranged
+Lucina: Brave Princess,38,41,44,31,34,37,33,36,39,24,27,31,16,19,22,157,158,210,Infantry,0,['5'],Melee
+Lucina: Future Witness,40,43,46,31,34,37,33,36,39,22,25,29,16,19,22,157,158,0,Infantry,0,['5'],Melee
+Lucina: Glorious Archer,33,36,40,31,34,37,32,35,38,22,25,29,17,20,23,150,151,544,,0,['5'],Ranged
+Lucina: Spring Exalt,32,35,39,25,29,32,33,36,39,19,22,25,22,25,29,146,148,56,Infantry,0,['5'],Ranged
+Lucius: The Light,34,37,41,29,32,35,26,30,33,10,13,17,32,35,38,146,148,40,Infantry,0,"['3', '4']",Ranged
+Lugh: Anima Child,34,37,41,32,35,39,33,36,39,13,17,20,28,31,34,155,157,764,Infantry,0,['5'],Ranged
+Lukas: Buffet for One,48,51,54,34,37,40,18,21,24,39,42,46,19,22,26,173,174,806,Armored,0,['5'],Melee
+Lukas: Sharp Soldier,42,45,48,32,35,38,19,22,25,35,38,41,13,17,20,156,157,71,Infantry,0,"['3', '4']",Melee
+Luke: Rowdy Squire,40,43,46,31,34,37,24,28,31,26,30,33,17,20,23,154,155,132,Cavalry,0,['5'],Melee
+Lute: Prodigy,30,33,36,33,36,39,29,32,35,12,16,19,31,34,37,150,151,286,Infantry,0,['5'],Ranged
+Lute: Summer Prodigy,34,37,41,32,35,38,31,34,37,13,17,20,29,32,35,154,156,1232,Flying,0,"['4', '5']",Ranged
+Lyn: Brave Lady,32,35,39,30,33,36,32,35,38,14,18,21,24,28,31,148,150,210,Cavalry,0,['5'],Ranged
+Lyn: Bride of the Plains,35,39,42,24,28,31,31,34,37,20,23,26,21,24,28,147,149,117,Infantry,0,['5'],Ranged
+Lyn: Lady of the Beach,34,37,41,30,33,36,35,38,41,17,20,23,23,27,30,154,156,887,Flying,0,['5'],Ranged
+Lyn: Lady of the Plains,34,37,41,24,28,31,34,37,40,23,26,30,26,29,32,156,158,0,Infantry,0,['5'],Melee
+Lyn: Lady of the Wind,33,36,40,27,31,34,33,36,39,18,21,24,23,27,30,150,152,453,,0,['5'],Ranged
+Lyn: Ninja-Friend Duo,36,40,43,35,38,42,38,42,45,18,21,24,23,26,30,166,168,1373,Flying,0,['5'],Ranged
+Lyn: Wind%27s Embrace,34,37,41,27,31,34,33,36,39,23,27,30,31,34,37,164,166,372,Armored,0,['5'],Ranged
+Lyon: Demon King,36,40,43,36,40,43,12,16,19,29,32,35,32,35,38,162,163,1191,Infantry,0,['5'],Ranged
+Lyon: Shadow Prince,37,41,44,31,34,37,18,21,24,22,26,29,26,30,33,151,152,358,Infantry,0,"['3', '4']",Ranged
+Lysithea: Child Prodigy,34,37,41,38,41,45,34,37,40,18,21,24,21,24,28,160,161,1128,Infantry,0,['5'],Ranged
+Lysithea: Earnest Seeker,36,40,43,37,40,44,36,39,43,18,21,24,22,25,28,164,166,1293,Infantry,0,['5'],Ranged
+Mae: Bundle of Energy,32,35,39,33,36,39,28,31,34,12,16,19,26,30,33,147,149,102,Infantry,0,"['3', '4']",Ranged
+Mamori: Microwavin%27 Idol,40,43,46,34,37,40,21,24,28,39,42,46,30,33,36,179,180,1082,Armored,0,['5'],Melee
+Mareeta: Sword of Stars,38,41,44,32,35,38,39,42,46,27,31,34,20,23,27,171,173,1037,Infantry,0,['5'],Melee
+Mareeta: The Blade%27s Pawn,39,42,45,30,33,36,38,41,45,25,29,32,20,23,27,167,169,827,Infantry,0,['5'],Melee
+Maria: Minerva%27s Sister,33,36,40,23,27,30,31,34,37,16,19,22,28,32,35,147,149,0,Infantry,0,"['3', '4']",Ranged
+Maribelle: Dire Damsel,31,34,37,32,35,38,30,33,36,12,16,19,23,27,30,144,145,533,Cavalry,0,['5'],Ranged
+Marisa: Crimson Flash,43,46,49,26,30,33,33,36,39,27,30,33,18,21,24,162,163,363,Infantry,1,"['4', '5']",Melee
+Marisa: Crimson Rabbit,39,42,45,30,33,36,35,38,42,24,28,31,18,21,24,161,163,775,Flying,0,['5'],Melee
+Marth: Altean Groom,36,40,43,28,31,34,33,36,39,27,30,33,17,20,23,156,157,477,Cavalry,1,"['4', '5']",Melee
+Marth: Altean Prince,37,41,44,28,31,34,31,34,37,25,29,32,20,23,26,157,158,0,Infantry,0,"['3', '4']",Melee
+Marth: Enigmatic Blade,40,43,46,31,34,37,33,36,39,22,25,29,16,19,22,157,158,126,Infantry,1,"['4', '5']",Melee
+Marth: Hero-King,36,40,43,31,34,37,33,36,39,29,32,35,18,21,24,162,163,572,,0,['5'],Melee
+Marth: Legacied Hero,37,41,44,33,36,39,34,37,40,29,32,35,23,26,30,171,173,1173,Infantry,0,"['4', '5']",Melee
+Marth: Royal Altean Duo,39,42,45,33,36,39,38,41,45,26,30,33,22,25,29,173,175,1047,Armored,0,['5'],Ranged
+Mathilda: Legendary Knight,32,35,39,25,29,32,29,32,35,21,24,27,31,34,37,153,155,161,Cavalry,0,"['3', '4']",Melee
+Matthew: Faithful Spy,38,41,44,22,25,29,31,34,37,27,30,33,14,18,21,147,149,0,Infantry,0,"['3', '4']",Ranged
+Mercedes: Kindly Devotee,35,39,42,30,33,36,27,30,33,19,22,25,30,33,36,156,157,916,Infantry,0,"['3', '4']",Ranged
+Merric: Changing Winds,37,41,44,31,34,37,38,41,45,18,21,24,21,25,28,161,163,1173,Infantry,0,['5'],Ranged
+Merric: Wind Mage,40,43,46,23,26,30,29,32,35,24,28,31,16,19,22,147,149,0,Infantry,0,"['3', '4']",Ranged
+Mia: Harmonic Blades,34,38,41,32,35,38,38,41,45,13,17,20,22,25,29,155,157,1232,Cavalry,0,['5'],Ranged
+Mia: Lady of Blades,34,38,41,29,32,35,37,40,43,24,28,31,22,25,29,162,164,286,Infantry,0,['5'],Melee
+Mia: Moonlit Witch,33,36,40,27,30,33,31,34,37,19,22,25,24,28,31,149,151,615,Flying,0,['5'],Ranged
+Micaiah: Dawn Wind%27s Duo,35,39,42,36,39,43,17,20,23,16,19,22,35,38,41,154,156,1203,Flying,0,['5'],Ranged
+Micaiah: Priestess of Dawn,32,35,39,32,35,38,24,28,31,14,18,21,32,35,38,150,152,344,Infantry,0,['5'],Ranged
+Micaiah: Queen of Dawn,33,36,40,34,37,41,24,28,31,13,17,20,34,37,40,154,156,925,Flying,0,['5'],Ranged
+Micaiah: Summer%27s Dawn,30,33,37,31,34,37,17,20,23,15,18,21,31,34,37,139,140,554,Infantry,0,['5'],Ranged
+Michalis: Ambitious King,40,43,46,31,34,37,23,26,30,32,35,38,16,19,22,157,158,46,Flying,0,"['3', '4']",Melee
+Midori: Reliable Chemist,38,41,44,38,41,45,27,30,33,31,34,37,18,21,24,167,168,1161,Infantry,0,['5'],Ranged
+Mikoto: Caring Mother,34,38,41,32,35,38,29,32,35,17,20,23,23,26,30,150,152,645,Infantry,0,['5'],Ranged
+Mila: Goddess of Love,37,41,44,34,37,40,13,17,20,37,40,44,34,37,41,171,173,1212,,0,['5'],Dragonstone
+Minerva: Princess-Knight,36,40,43,33,36,39,34,37,40,32,35,38,16,19,22,166,167,1174,Flying,1,"['4', '5']",Melee
+Minerva: Red Dragoon,36,40,43,28,31,34,30,33,36,29,32,35,19,22,25,157,158,0,Flying,0,['5'],Melee
+Mirabilis: Daydream,34,38,41,31,34,37,14,18,21,29,32,35,32,35,38,156,157,1219,,0,['5'],Melee
+Mist: Helpful Sister,35,39,42,24,27,31,24,28,31,17,20,23,31,34,37,147,149,83,Infantry,0,['5'],Ranged
+Mist: Purest Spirit,33,36,40,31,34,37,31,34,37,13,17,20,20,23,27,143,145,736,Cavalry,0,['5'],Ranged
+Mordecai: Kindhearted Tiger,44,47,50,34,37,40,21,24,28,36,39,43,17,20,23,167,168,797,Infantry,0,"['3', '4']",Beast
+Morgan: Lad from Afar,34,37,41,30,33,36,31,34,37,17,20,23,23,26,30,150,151,400,Infantry,0,"['3', '4']",Ranged
+Morgan: Lass from Afar,34,37,41,31,34,37,27,30,33,12,16,19,30,33,36,149,151,400,Flying,0,['5'],Ranged
+Mustafa: Plegian Champion,42,45,48,35,38,41,22,25,29,33,36,39,24,28,31,171,173,1219,Infantry,0,"['3', '4']",Melee
+Myrrh: Great Dragon,39,42,45,30,33,36,22,25,29,32,36,39,28,31,34,166,168,357,Flying,0,['5'],Dragonstone
+Myrrh: Spooky Monster,43,46,49,35,38,42,20,23,27,36,40,43,29,32,35,178,180,615,Armored,0,['5'],Dragonstone
+Naesala: Sky%27s Shadow,35,39,42,29,32,35,35,38,41,21,24,28,25,29,32,161,163,708,Flying,0,"['3', '4']",Beast
+Naga: Dragon Divinity,34,37,41,27,30,33,33,36,39,30,33,36,22,26,29,161,163,847,,0,['5'],Dragonstone
+Nagi: Dragon Avatar,42,46,49,34,37,40,16,19,22,33,36,40,38,41,45,178,180,959,Armored,0,['5'],Dragonstone
+Nah: Little Miss,41,44,47,31,34,37,22,25,29,34,38,41,29,32,35,172,174,859,Infantry,0,['5'],Dragonstone
+Nailah: Blessed Queen,36,40,43,32,35,38,38,41,45,28,31,34,22,25,29,171,173,1203,Infantry,0,['5'],Beast
+Nailah: Unflinching Eye,36,40,43,28,31,34,34,37,40,29,32,35,20,23,27,162,164,708,Infantry,0,['5'],Beast
+Nanna: Nordion Princess,33,36,40,23,27,30,31,34,37,18,21,24,23,26,30,143,145,433,Cavalry,0,"['3', '4']",Ranged
+Narcian: Vernal General,40,43,46,32,35,38,31,34,37,34,37,41,15,18,21,167,168,1140,Flying,0,"['4', '5']",Melee
+Narcian: Wyvern General,39,42,45,25,29,32,25,29,32,29,32,35,23,26,30,157,159,8,Flying,0,"['2', '4']",Melee
+Navarre: Scarlet Ninja,37,41,44,36,39,43,39,42,46,28,31,34,20,23,26,175,177,1373,Infantry,0,['5'],Melee
+Navarre: Scarlet Sword,39,42,45,28,31,34,34,37,40,20,23,26,21,24,28,157,158,61,Infantry,0,"['3', '4']",Melee
+Nemesis: King of Liberation,40,43,46,36,39,42,20,23,26,34,37,40,31,34,37,176,176,1356,Infantry,0,['5'],Melee
+Nephenee: Fierce Halberdier,34,37,41,28,31,34,32,35,38,31,34,37,17,20,23,157,158,225,Infantry,0,['5'],Melee
+Nephenee: Sincere Dancer,33,37,40,32,35,38,33,36,39,21,24,28,21,25,28,156,158,946,Infantry,0,['5'],Ranged
+Niles: Cruel to Be Kind,34,37,41,22,25,29,31,34,37,13,17,20,31,34,37,146,148,0,Infantry,0,"['3', '4']",Ranged
+Niles: Forbidden Tease,34,37,41,31,34,37,36,39,42,22,25,29,25,29,32,163,165,615,Armored,0,['5'],Ranged
+Nils: Bright Bard,42,45,48,28,31,34,32,35,38,22,26,29,22,25,29,161,163,1110,Infantry,0,['5'],Dragonstone
+Nina: Eye Spy,32,35,39,29,32,35,34,37,40,12,16,19,28,31,34,150,152,589,Infantry,0,['5'],Ranged
+Ninian: Bright-Eyed Bride,31,34,38,24,28,31,30,33,36,15,18,21,23,27,30,139,141,473,Flying,0,['5'],Ranged
+Ninian: Oracle of Destiny,39,42,45,21,24,28,30,33,36,20,23,26,23,27,30,148,150,40,Infantry,0,['5'],Dragonstone
+Nino: Flower of Frost,36,40,43,32,35,38,38,41,45,19,22,26,27,31,34,168,170,1047,Armored,0,['5'],Ranged
+Nino: Pale Flower,33,36,40,30,33,36,35,38,41,13,17,20,22,25,29,148,150,491,Flying,0,['5'],Ranged
+Nino: Pious Mage,30,33,36,30,33,36,33,36,39,16,19,22,23,26,30,147,148,0,Infantry,0,"['3', '4']",Ranged
+Noire: Shade Seeker,33,36,40,29,32,35,33,36,39,23,27,30,17,20,23,150,152,504,Infantry,0,['5'],Ranged
+Norne: The Volunteer,39,42,45,29,32,35,33,36,39,28,31,34,23,27,30,167,168,959,Infantry,0,"['3', '4']",Ranged
+Nowi: Eternal Witch,31,34,37,31,34,37,29,32,35,17,20,23,24,27,31,147,148,270,Flying,0,['5'],Ranged
+Nowi: Eternal Youth,42,45,48,31,34,37,23,27,30,27,30,33,23,27,30,162,163,0,Infantry,0,"['3', '4']",Dragonstone
+Oboro: Fierce Bride-to-Be,39,42,45,36,39,43,32,35,38,37,40,44,12,16,19,171,173,1203,Infantry,0,['5'],Melee
+Oboro: Fierce Fighter,36,40,43,29,32,35,23,26,30,32,35,38,21,24,28,156,158,0,Infantry,0,"['3', '4']",Melee
+Odin: Potent Force,40,43,46,19,22,25,29,32,35,22,25,29,22,25,29,147,148,0,Infantry,0,"['3', '4']",Ranged
+Ogma: Loyal Blade,44,47,50,32,35,38,31,34,37,24,28,31,10,13,17,156,158,0,Infantry,0,"['3', '4']",Melee
+Oliver: Admirer of Beauty,39,42,45,29,32,35,17,20,23,20,23,26,31,34,37,151,151,346,Infantry,0,"['3', '4']",Ranged
+Olivia: Blushing Beauty,33,36,40,24,28,31,30,33,36,23,27,30,22,26,29,149,151,0,Infantry,0,"['3', '4']",Melee
+Olivia: Festival Dancer,31,34,38,24,28,31,31,34,37,12,16,19,25,28,31,139,141,239,Infantry,0,['5'],Ranged
+Olivia: Sky-High Dancer,33,36,40,27,30,33,31,34,37,22,26,29,20,23,27,148,150,533,Flying,0,['5'],Melee
+Olwen: Blue Mage Knight,31,34,37,23,26,30,31,34,37,17,20,23,27,30,33,144,145,25,Cavalry,0,['5'],Ranged
+Olwen: Righteous Knight,31,34,37,26,30,33,32,35,38,16,19,22,23,27,30,144,145,433,Cavalry,0,['5'],Ranged
+Ophelia: Dramatic Heroine,34,38,41,34,37,41,30,33,36,17,20,23,20,23,26,150,152,589,Infantry,0,['5'],Ranged
+Oscar: Agile Horseman,36,40,43,30,33,36,31,34,37,23,26,30,18,21,24,153,155,225,Cavalry,0,"['3', '4']",Melee
+Osian: Scolded Soldier,39,42,45,32,35,38,33,36,39,30,33,36,23,27,30,172,173,1037,Infantry,0,['5'],Melee
+Owain: Chosen One,38,41,44,29,32,35,34,37,40,28,31,34,19,22,25,163,163,628,Infantry,0,['5'],Melee
+Palla: Eldest Bun-Bun,35,38,42,34,37,41,31,34,37,13,17,20,26,29,32,154,156,775,Flying,0,['5'],Ranged
+Palla: Eldest Whitewing,39,42,45,28,31,34,27,31,34,24,28,31,23,26,30,157,159,0,Flying,0,"['3', '4']",Melee
+Palla: Sisterly Trio,36,40,43,36,39,43,27,31,34,30,33,36,21,24,27,166,168,1173,Flying,0,['5'],Melee
+Panne: Proud Taguel,38,41,44,25,29,32,31,34,37,26,30,33,20,23,27,156,158,752,Cavalry,0,"['3', '4']",Beast
+Pent: Fancy Fiancé,34,37,41,30,33,36,31,34,37,16,19,22,18,21,24,144,145,838,Cavalry,0,['5'],Ranged
+Peony: Sweet Dream,34,38,41,28,31,34,33,36,39,12,16,19,21,24,28,144,146,1037,,0,['5'],Ranged
+Perceval: Knightly Ideal,34,38,41,29,32,35,34,37,40,25,28,32,23,27,30,161,163,1020,Cavalry,0,['5'],Melee
+Peri: Playful Slayer,32,35,39,30,33,36,30,33,36,20,23,26,27,30,33,154,155,0,Cavalry,0,"['3', '4']",Melee
+Petra: Princess of Brigid,36,40,43,29,32,35,35,38,41,22,25,29,17,20,23,154,156,916,Flying,0,['5'],Ranged
+Petrine: Icy Flame-Lancer,39,42,45,32,35,38,34,37,40,26,30,33,21,24,28,167,169,1325,Cavalry,0,"['3', '4']",Melee
+Phina: Roving Dancer,37,40,43,32,35,38,34,37,40,23,26,30,20,23,27,161,162,959,Infantry,0,['5'],Melee
+Plumeria: Lewd Dream,38,41,44,37,40,44,14,18,21,12,16,19,33,37,40,151,153,1336,,0,['5'],Ranged
+Priscilla: Delicate Princess,33,36,40,25,29,32,25,29,32,16,19,22,29,32,35,144,146,40,Cavalry,0,"['3', '4']",Ranged
+Python: Apathetic Archer,35,38,42,29,32,35,32,35,38,28,31,34,17,20,23,156,157,991,Cavalry,0,"['3', '4']",Ranged
+Quan: Lightfoot Prince,37,40,43,37,41,44,17,20,23,33,36,40,17,20,23,156,158,1314,Flying,0,['5'],Ranged
+Quan: Luminous Lancer,41,44,47,34,37,40,26,29,32,28,31,34,12,16,19,156,157,582,Cavalry,0,['5'],Melee
+Rafiel: Blessed Wings,34,38,41,25,28,31,32,35,38,17,20,23,38,41,45,161,163,1203,Infantry,0,"['4', '5']",Beast
+Raigh: Dark Child,33,36,40,29,32,35,25,29,32,19,22,25,25,29,32,147,149,0,Infantry,0,"['3', '4']",Ranged
+Ranulf: Friend of Nations,37,40,43,26,30,33,34,37,40,30,33,36,13,17,20,156,157,797,Cavalry,0,['5'],Beast
+Rath: Wolf of Sacae,38,41,44,30,33,36,32,35,38,20,23,26,21,24,28,156,157,1110,Cavalry,0,"['3', '4']",Ranged
+Raven: Peerless Fighter,37,41,44,31,34,37,32,35,38,22,25,29,19,22,25,156,158,0,Infantry,0,"['3', '4']",Melee
+Rebecca: Wildflower,34,37,41,25,29,32,31,34,37,18,21,24,23,27,30,147,149,40,Infantry,0,"['3', '4']",Ranged
+Reinhardt: Lightning%27s Rondo,34,38,41,31,34,37,18,21,24,24,27,30,22,25,29,144,146,946,Flying,0,['5'],Ranged
+Reinhardt: Thunder%27s Fist,34,38,41,29,32,35,20,23,26,23,27,30,22,25,28,144,145,25,Cavalry,0,"['3', '4']",Ranged
+Reinhardt: Thunder%27s Sword,36,40,43,32,35,38,20,23,26,28,31,34,24,28,31,156,157,433,Cavalry,0,['5'],Melee
+Reyson: White Prince,33,37,40,25,29,32,31,34,37,21,24,28,22,26,29,149,151,708,Flying,0,"['3', '4']",Beast
+Rhajat: Black Magician,33,36,40,32,35,38,31,34,37,18,21,24,21,24,27,150,151,303,Infantry,0,['5'],Ranged
+Rhys: Gentle Basker,41,44,47,31,34,37,23,27,30,18,21,24,33,36,39,161,162,1232,Infantry,1,"['4', '5']",Ranged
+Rinea: Reminiscent Belle,34,38,41,27,30,33,30,33,36,20,23,27,24,28,31,151,153,950,Infantry,1,"['4', '5']",Ranged
+Rinkah: Scion of Flame,36,40,43,31,34,37,36,39,43,38,41,45,14,18,21,171,173,1161,Infantry,0,['5'],Melee
+Robin: Fall Vessel,36,40,43,37,40,44,13,17,20,34,37,40,35,38,42,171,173,1344,Flying,0,['5'],Dragonstone
+Robin: Fell Reincarnation,45,48,51,37,40,44,21,24,27,32,35,38,23,27,30,173,175,385,Armored,0,['5'],Dragonstone
+Robin: Fell Vessel,37,40,43,29,32,35,32,35,38,26,30,33,22,25,29,161,163,420,,0,['5'],Dragonstone
+Robin: Festive Tactician,41,45,48,32,35,38,31,34,37,32,35,38,22,25,29,173,175,319,Armored,0,['5'],Melee
+Robin: High Deliverer,36,40,43,25,29,32,25,29,32,25,29,32,19,22,25,148,149,0,Infantry,0,"['3', '4']",Ranged
+Robin: Mystery Tactician,36,40,43,25,29,32,25,29,32,25,29,32,19,22,25,148,149,21,Infantry,0,"['2', '4']",Ranged
+Robin: Seaside Tactician,32,35,38,29,32,35,31,34,37,24,28,31,25,29,32,157,158,148,Infantry,0,['5'],Melee
+Roderick: Steady Squire,36,40,43,28,31,34,31,34,37,22,25,29,21,24,27,153,155,132,Cavalry,0,"['3', '4']",Melee
+Rolf: Tricky Archer,36,40,43,27,30,33,33,36,39,24,28,31,20,23,27,156,158,979,Cavalry,1,"['4', '5']",Ranged
+Ross: His Father%27s Son,44,47,51,35,38,42,28,31,34,29,32,35,21,24,28,172,173,1008,Infantry,0,"['3', '4']",Melee
+Roy: Blazing Lion,35,39,42,31,34,37,35,38,41,29,32,35,22,26,29,168,169,755,,0,['5'],Melee
+Roy: Brave Lion,34,38,41,29,32,35,31,34,37,23,26,30,21,24,27,153,155,210,Cavalry,0,['5'],Melee
+Roy: Young Lion,41,44,47,26,30,33,27,31,34,22,25,29,25,28,31,157,159,0,Infantry,0,"['3', '4']",Melee
+Roy: Youthful Gifts,31,34,37,32,35,38,15,19,22,23,27,30,27,30,33,144,145,372,Cavalry,0,['5'],Ranged
+Rudolf: Emperor of Rigel,42,46,49,39,43,46,18,21,24,38,41,45,25,29,32,179,181,1099,Armored,0,['5'],Melee
+Rutger: Lone Swordsman,41,44,47,29,32,35,36,39,43,25,29,32,21,24,28,167,169,767,Infantry,0,"['3', '4']",Melee
+Ryoma: Dancing Samurai,32,36,39,29,32,35,31,34,37,18,21,24,13,17,20,139,140,554,Infantry,0,['5'],Ranged
+Ryoma: Peerless Samurai,37,41,44,31,34,37,32,35,38,23,27,30,18,21,24,157,158,0,Infantry,0,['5'],Melee
+Ryoma: Samurai at Ease,36,40,43,32,35,38,33,36,39,25,28,31,20,23,27,161,163,720,Flying,0,['5'],Melee
+Ryoma: Supreme Samurai,38,41,44,31,34,37,36,39,42,24,28,31,17,20,23,161,162,482,,0,['5'],Melee
+Saber: Driven Mercenary,36,40,43,28,31,34,30,33,36,29,32,35,19,22,25,157,158,161,Infantry,0,['5'],Melee
+Saias: Bishop of Flame,33,36,40,30,33,36,26,30,33,14,18,21,31,34,37,150,152,439,Infantry,0,"['3', '4']",Ranged
+Saizo: Angry Ninja,33,36,40,25,29,32,31,34,37,30,33,36,12,16,19,147,149,0,Infantry,0,"['3', '4']",Ranged
+Sakura: Gentle Nekomata,30,33,36,29,32,35,31,34,37,11,14,18,31,34,37,147,148,270,Infantry,0,['5'],Ranged
+Sakura: Hot-Spring Healer,33,36,40,32,35,38,29,32,35,22,26,29,18,21,24,149,151,720,Flying,0,['5'],Ranged
+Sakura: Loving Priestess,33,36,40,24,28,31,26,30,33,21,24,28,26,30,33,147,149,0,Infantry,0,"['3', '4']",Ranged
+Sanaki: Apostle in White,32,35,39,33,36,39,26,30,33,12,16,19,30,33,36,149,151,473,Flying,0,['5'],Ranged
+Sanaki: Begnion%27s Apostle,30,33,36,34,37,40,23,26,30,13,17,20,31,34,37,146,148,25,Infantry,0,['5'],Ranged
+Say%27ri: Chon%27sin%27s Blade,36,40,43,32,35,38,37,40,44,20,23,26,31,34,37,171,173,1219,Infantry,0,['5'],Melee
+Selena: Cutting Wit,34,37,41,22,25,29,32,35,38,29,32,35,24,28,31,156,158,0,Infantry,0,"['3', '4']",Melee
+Selena: Sandbar Fluorspar,33,36,40,34,37,41,34,37,41,13,17,20,20,23,26,149,151,1232,Cavalry,0,['5'],Ranged
+Seliph: Heir of Light,44,47,50,31,34,37,21,24,27,26,30,33,19,22,25,156,157,13,Infantry,0,"['3', '4']",Melee
+Seliph: Scion of Light,37,41,44,38,41,45,13,17,20,34,37,40,22,26,29,161,163,1244,,0,['5'],Melee
+Selkie: Free Spirit,32,35,39,25,29,32,35,38,41,16,19,22,32,35,38,155,157,748,Cavalry,0,['5'],Beast
+Selkie: New Year%27s Spirit,32,35,39,28,31,34,36,39,42,12,16,19,37,40,44,160,162,1063,Cavalry,0,['5'],Beast
+Serra: Outspoken Cleric,30,33,36,27,30,33,27,31,34,18,21,24,30,33,36,147,148,0,Infantry,0,"['3', '4']",Ranged
+Seteth: Seiros Adherent,41,44,47,33,36,39,33,36,39,29,32,35,21,24,27,172,172,1355,Flying,0,['5'],Melee
+Seth: Silver Knight,34,37,41,29,32,35,28,31,34,29,32,35,19,22,25,154,155,194,Cavalry,0,"['3', '4']",Melee
+Setsuna: Absent Archer,34,37,41,24,28,31,34,37,40,19,22,25,20,23,26,146,148,0,Infantry,0,"['3', '4']",Ranged
+Shamir: Archer Apart,37,41,44,37,40,44,37,40,44,22,25,29,21,24,28,170,171,1355,Infantry,0,['5'],Ranged
+Shanna: Sprightly Flier,35,39,42,26,30,33,32,35,38,22,25,29,25,29,32,157,159,0,Flying,0,"['3', '4']",Melee
+Shannan: Wielder of Astra,40,43,46,35,38,42,33,36,39,34,37,40,14,18,21,171,173,1071,Infantry,0,['5'],Melee
+Sharena: Princess of Askr,40,43,46,29,32,35,29,32,35,25,29,32,19,22,25,157,158,0,Infantry,0,['4'],Melee
+Sharena: Spring Princess,34,37,41,29,32,35,33,36,39,12,16,19,27,30,33,150,152,413,Infantry,0,['5'],Ranged
+Sheena: Princess of Gra,42,45,48,26,30,33,22,25,29,33,36,39,30,33,36,168,170,0,Armored,0,"['3', '4']",Melee
+Shigure: Dark Sky Singer,31,34,38,28,31,34,26,29,32,18,21,24,21,24,28,139,140,239,Infantry,0,['5'],Ranged
+Shigure: Uplifting Artist,36,40,43,30,33,36,34,37,40,23,27,30,22,25,28,161,162,446,Flying,0,"['3', '4']",Melee
+Shinon: Scathing Archer,36,40,43,35,38,41,39,42,46,23,27,30,21,24,28,170,172,1324,Infantry,0,['5'],Ranged
+Shiro: Raw Talent,37,41,44,32,35,38,27,30,33,32,35,38,19,22,25,162,163,305,Infantry,0,['5'],Melee
+Siegbert: Future King,37,41,44,31,34,37,32,35,38,28,31,34,12,16,19,156,157,305,Cavalry,0,['5'],Melee
+Sigrun: Loyal Protector,34,37,41,29,32,35,33,36,39,25,28,31,31,34,37,167,168,926,Flying,1,"['4', '5']",Melee
+Sigrun: Steadfast Bride,32,35,39,28,31,34,35,38,41,23,27,30,28,31,34,161,163,838,Flying,0,['5'],Melee
+Sigurd: Destined Duo,34,38,41,35,38,42,15,18,21,12,16,19,34,37,41,146,148,1314,Cavalry,0,['5'],Ranged
+Sigurd: Holy Knight,37,41,44,32,35,38,29,32,35,31,34,37,13,17,20,158,159,256,Cavalry,0,['5'],Melee
+Silas: Loyal Knight,36,40,43,32,35,38,21,24,28,33,36,39,18,21,24,155,157,589,Cavalry,0,"['3', '4']",Melee
+Silque: Adherent of Mila,35,39,42,30,33,36,20,23,27,32,35,39,28,31,35,160,162,991,Infantry,0,['5'],Ranged
+Silque: Selfless Cleric,37,40,43,25,28,32,19,22,26,29,32,35,25,29,32,150,152,1099,Cavalry,1,"['4', '5']",Ranged
+Silvia: Traveling Dancer,37,40,43,23,27,30,33,36,39,13,17,20,27,30,33,149,150,582,Infantry,0,"['3', '4']",Melee
+Sirius: Mysterious Knight,36,40,43,31,34,37,34,37,40,32,35,38,12,16,19,161,162,959,Cavalry,0,['5'],Melee
+Soleil: Adorable Adorer,34,37,41,35,38,41,32,35,38,24,28,31,21,24,28,161,163,305,Infantry,0,"['3', '4']",Melee
+Sonya: Vengeful Mage,33,36,40,30,33,36,28,31,34,12,15,19,29,32,35,147,148,161,Infantry,0,['5'],Ranged
+Sophia: Nabata Prophet,36,40,43,30,33,36,16,19,22,24,28,31,25,29,32,148,149,0,Infantry,0,"['3', '4']",Ranged
+Soren: Addled Strategist,34,37,41,32,35,38,30,33,36,11,14,18,21,25,28,143,145,736,Cavalry,0,['5'],Ranged
+Soren: Shrewd Strategist,33,36,40,30,33,36,30,33,36,13,17,20,25,29,32,147,149,83,Infantry,0,"['3', '4']",Ranged
+Sothe: Zephyr,35,39,42,33,36,39,30,33,36,19,22,25,18,21,24,150,151,344,Infantry,0,"['3', '4']",Ranged
+Sothis: Girl on the Throne,38,41,44,31,34,37,36,39,43,29,32,35,24,27,30,173,174,909,,0,['5'],Dragonstone
+Sothis: Silver Specter,41,44,47,32,35,39,37,41,44,26,30,33,32,35,38,184,186,1047,Armored,0,['5'],Dragonstone
+Stahl: Viridian Knight,42,45,48,28,31,34,23,26,30,26,30,33,19,22,25,153,155,0,Cavalry,0,"['3', '4']",Melee
+Subaki: Perfect Expert,36,40,43,22,25,29,32,35,38,32,35,38,19,22,25,156,158,0,Flying,0,"['3', '4']",Melee
+Sue: Doe of the Plains,33,36,40,29,32,35,35,38,41,20,23,27,17,20,23,149,150,764,Cavalry,0,['5'],Ranged
+Sully: Crimson Knight,39,42,45,23,26,30,31,34,37,21,24,27,24,28,31,153,155,0,Cavalry,0,"['3', '4']",Melee
+Sumia: Maid of Flowers,35,39,42,27,30,33,36,39,42,25,29,32,22,25,29,161,163,533,Flying,0,['5'],Melee
+Surtr: Ruler of Flame,46,50,53,36,39,43,13,17,20,37,40,44,30,33,36,178,180,657,Armored,0,['5'],Melee
+Sylvain: Hanging with Tens,39,42,45,29,32,35,32,35,38,23,27,30,12,16,19,151,152,1252,Cavalry,0,"['4', '5']",Ranged
+Tailtiu: Thunder Noble,35,39,42,29,32,35,32,35,38,13,17,20,22,25,29,147,149,256,Infantry,0,"['3', '4']",Ranged
+Takumi: Empty Vessel,33,37,40,27,31,34,31,34,37,22,25,29,21,24,28,150,152,387,Infantry,0,"['3', '4']",Ranged
+Takumi: Prince at Play,36,40,43,32,35,38,32,35,38,18,21,24,16,19,22,149,150,523,Flying,0,['5'],Ranged
+Takumi: Prince of Soup,36,40,43,31,34,37,31,34,37,13,17,20,23,27,30,151,152,332,Infantry,0,['5'],Ranged
+Takumi: Wild Card,36,40,43,29,32,35,30,33,36,22,25,29,14,18,21,147,149,0,Infantry,0,['5'],Ranged
+Tana: Noble and Nimble,32,35,39,30,33,36,33,36,39,17,20,23,22,25,29,149,150,504,Flying,0,['5'],Ranged
+Tana: Winged Princess,33,36,40,31,34,37,33,36,39,22,25,29,22,25,29,156,157,194,Flying,0,['5'],Melee
+Tanith: Forthright Heart,34,37,41,31,34,37,33,36,39,30,33,36,18,21,24,161,162,838,Flying,0,['5'],Melee
+Tanya: Dagdar%27s Kid,38,41,44,27,30,33,34,37,40,22,25,29,25,28,32,161,162,1037,Infantry,0,"['3', '4']",Ranged
+Tethys: Beloved Dancer,34,38,41,23,27,30,32,35,38,20,23,27,31,34,37,156,158,1008,Infantry,0,"['3', '4']",Ranged
+"Tharja: ""Normal Girl""",40,43,46,31,34,37,14,18,21,31,34,37,33,36,39,164,165,319,Armored,0,['5'],Ranged
+Tharja: Dark Shadow,35,39,42,29,32,35,31,34,37,20,23,26,17,20,23,147,148,0,Infantry,0,"['3', '4']",Ranged
+Tharja: Obsessive Bride,35,39,42,32,35,38,32,35,38,18,21,24,18,21,24,150,151,473,Infantry,0,['5'],Ranged
+Thea: Stormy Flier,34,37,41,28,31,34,32,35,38,28,31,34,24,28,31,161,163,764,Flying,0,"['3', '4']",Melee
+Thrasir: Omnicidal Witch,36,40,43,30,33,36,36,39,43,20,23,26,23,27,30,161,163,970,,0,['5'],Ranged
+Tibarn: Lord of the Air,37,41,44,35,38,41,28,31,34,31,34,37,15,18,21,161,162,708,Flying,0,['5'],Beast
+Tibarn: Shipless Pirate,38,42,45,38,41,45,27,30,33,33,36,39,15,18,21,166,168,1282,Flying,0,['5'],Beast
+Tiki: Beachside Scion,37,40,43,30,33,36,33,37,40,29,32,35,22,26,29,167,168,523,Flying,0,['5'],Dragonstone
+Tiki: Dragon Scion,38,41,44,28,31,34,27,30,33,29,32,35,25,29,32,162,163,0,Infantry,0,['5'],Dragonstone
+Tiki: Harmonic Hope,36,39,42,36,39,43,38,42,45,29,32,35,22,25,29,176,178,1344,Flying,0,['5'],Dragonstone
+Tiki: Legendary Dragon,42,45,48,31,34,37,32,35,38,33,37,40,26,29,32,179,180,603,,0,['5'],Dragonstone
+Tiki: Naga%27s Voice,36,40,43,32,35,38,20,23,26,32,35,38,21,24,27,156,157,0,Infantry,0,"['3', '4']",Dragonstone
+Tiki: Summering Scion,32,35,38,33,36,39,27,30,33,29,32,35,21,24,27,157,157,148,Infantry,0,['5'],Melee
+Tiki: Torpid Dragon,42,45,48,33,36,39,31,34,37,33,37,40,24,28,31,179,180,827,Armored,0,['5'],Dragonstone
+Titania: Mighty Mercenary,34,37,41,24,28,31,31,34,37,22,25,29,26,30,33,153,155,83,Cavalry,0,"['3', '4']",Melee
+Titania: Warm Knight,32,35,39,26,30,33,30,33,36,13,17,20,27,30,33,144,146,738,Cavalry,1,"['4', '5']",Ranged
+Tobin: The Clueless One,43,46,49,28,31,34,23,27,30,30,33,36,22,26,29,162,163,155,Infantry,1,"['4', '5']",Melee
+Travant: King of Thracia,43,46,49,33,36,39,23,26,30,37,40,44,14,18,21,165,167,1074,Flying,0,"['3', '4']",Melee
+Tsubasa: Madcap Idol,35,39,42,29,32,35,37,40,44,23,26,30,26,30,33,166,168,1082,Flying,0,['5'],Melee
+Ursula: Blue Crow,32,35,39,25,29,32,29,32,35,16,19,22,26,30,33,144,146,36,Cavalry,0,"['3', '4']",Ranged
+Ursula: Clear-Blue Crow,33,36,40,33,36,39,31,34,37,12,16,19,24,28,31,149,151,887,Cavalry,0,['5'],Ranged
+Valbar: Open and Honest,46,49,52,32,35,38,22,25,29,35,38,42,23,26,29,173,174,991,Armored,0,"['3', '4']",Melee
+Valter: Dark Moonstone,39,42,45,29,32,35,27,31,34,31,34,37,16,19,22,157,158,200,Flying,0,"['3', '4']",Melee
+Velouria: Wolf Cub,36,40,43,32,35,38,34,37,40,30,33,36,20,23,26,167,168,748,Infantry,0,['5'],Beast
+Veronica: Brave Princess,33,36,40,29,32,35,33,36,39,18,21,24,16,19,22,144,145,565,Cavalry,0,['5'],Ranged
+Veronica: Harmonic Pirates,35,38,42,36,39,43,16,19,22,33,36,39,25,29,32,160,162,1282,Cavalry,0,['5'],Melee
+Veronica: Spring Princess,34,38,41,32,35,38,33,36,39,12,16,19,22,25,29,149,151,775,Flying,0,['5'],Ranged
+Virion: Elite Archer,43,46,49,28,31,34,28,31,34,23,26,30,10,13,17,147,148,0,Infantry,0,"['3', '4']",Ranged
+Walhart: The Conqueror,37,41,44,34,37,40,23,27,30,33,36,39,12,16,19,156,157,542,Cavalry,0,"['3', '4']",Melee
+Wolt: Sunbeam Archer,36,40,43,31,34,37,31,34,37,22,25,29,13,17,20,149,151,887,Cavalry,0,['5'],Ranged
+Wrys: Kindly Priest,39,42,45,21,24,28,20,23,26,19,22,25,33,36,39,147,148,0,Infantry,0,"['3', '4']",Ranged
+Xander: Dancing Knight,34,38,41,32,35,38,13,17,20,31,34,37,12,16,19,139,140,554,Infantry,0,['5'],Ranged
+Xander: Paragon Knight,41,44,47,29,32,35,21,24,28,34,37,40,13,17,20,153,155,89,Cavalry,0,"['3', '5']",Melee
+Xander: Spring Prince,36,40,43,22,25,29,24,28,31,32,35,38,23,26,30,153,155,56,Cavalry,0,['5'],Melee
+Xander: Student Swimmer,40,43,46,29,32,35,27,30,33,33,36,39,13,16,20,157,158,176,Infantry,0,['5'],Melee
+Xane: Autumn Trickster,44,47,50,27,30,33,31,34,37,22,25,29,26,30,33,165,167,1344,Infantry,0,"['4', '5']",Ranged
+Yarne: Timid Taguel,36,40,43,32,35,38,30,33,36,29,32,35,13,17,20,156,157,859,Cavalry,0,['5'],Beast
+Ylgr: Breaking the Ice,39,42,45,32,35,38,33,36,39,27,30,33,22,25,29,168,169,872,Infantry,1,"['4', '5']",Melee
+Ylgr: Fresh Snowfall,34,38,41,30,33,36,35,38,41,19,22,25,17,20,23,150,151,657,Infantry,0,['5'],Ranged
+Yune: Chaos Goddess,34,38,41,30,33,36,23,27,30,12,15,19,34,37,40,149,151,785,,0,['5'],Ranged
+Zelgius: Jet-Black General,43,46,49,33,36,39,30,33,36,35,38,41,18,21,24,174,174,344,Armored,0,['5'],Melee
+Zephiel: The Liberator,52,55,59,32,35,38,12,16,19,35,38,41,21,24,28,167,169,77,Armored,0,"['3', '4']",Melee
+Zephiel: Winter%27s Crown,45,48,51,35,38,41,16,19,22,35,38,42,33,36,39,179,180,1047,Armored,0,['5'],Melee
+Zihark: Ninja Blademaster,40,43,46,34,37,40,39,42,46,26,30,33,21,24,28,175,177,1373,Infantry,0,['5'],Melee
