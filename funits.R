@@ -4,13 +4,13 @@ library(modelr)
 library(sjPlot)
 library(sjmisc)
 library(sjlabelled)
+library(factoextra)
 
 setwd("C:/Users/Amin Gulamani/Desktop/FEH PowerCreep")
 funits <- read.csv("funits.csv")
 funits <-
   funits %>%
   mutate(DSR2 = DSR * DSR)
-
 
 model <- lm(Hibst ~ DSR, family = binomial, data = funits)
 modelA <- lm(Hibst ~ DSR, family = binomial, data = filter(funits, MT == "Armored"))
@@ -23,21 +23,105 @@ tab_model(modelC)
 tab_model(modelF)
 tab_model(modelI)
 
+plot <- ggplot(funits, aes(x = DSR, y = Hibst, colour = MT)) + geom_point()
+plot <- plot + stat_smooth(data = funits, method="lm", se=TRUE,
+                           formula= y ~ poly(x, 1, raw=TRUE),colour="purple")
+plot
 
-plot <- ggplot(filter(funits, MT == "Infantry"))  + geom_point(aes(x = DSR, y = Hibst, colour = Range))
+
+plot <- ggplot(filter(funits, MT == "Infantry"))  + geom_point(aes(x = DSR, y = Hibst))
 plot <- plot + geom_abline(intercept = 1.464e+02, slope = 1.407e-02)
 plot <- plot + geom_abline(intercept = 1.570e+02, slope = 1.352e-02)
 plot
 
-funitsIR <- filter(funits, MT == "Infantry", Range== "Ranged")
-funitsIM <- filter(funits, MT == "Infantry", Range== "Melee")
-plot <- ggplot(filter(funits, MT == "Infantry"), aes(x = DSR, y = Hibst, colour = Range)) + geom_point()
-#plot <- plot + geom_abline(intercept = 1.570e+02, slope = 1.352e-02)
+plot <- ggplot(filter(funits, MT == "Infantry", WT == "Melee"))  + geom_point(aes(x = DSR, y = Hibst, color = Dance))
+plot
+
+plot <- ggplot(filter(funits, MT == "Infantry", WT == "Melee"))  + geom_point(aes(x = DSR, y = Hibst, color = Ratings, alpha = 0.1))
+plot
+
+plot <- ggplot(filter(funits, MT == "Infantry", WT == "Melee"))  + geom_point(aes(x = DSR, y = Hibst, color = Legendary))
+plot
+
+plot <- ggplot(filter(funits, MT == "Infantry", WT == "Melee"))  + geom_point(aes(x = DSR, y = Hibst, color = Colour))
+plot
+
+
+
+#Range/Melee split by movement Type
+#Infantry
+funitsIR <- filter(funits, MT == "Infantry", WT == "Ranged")
+funitsIM <- filter(funits, MT == "Infantry", WT == "Melee")
+plot <- ggplot(filter(funits, MT == "Infantry"), aes(x = DSR, y = Hibst, colour = WT)) + geom_point()
 plot <- plot + stat_smooth(data = funitsIR, method="lm", se=TRUE,
                            formula= y ~ poly(x, 2, raw=TRUE),colour="purple")+
                 stat_smooth(data = funitsIM, method="lm", se=TRUE,
                            formula= y ~ poly(x, 2, raw=TRUE),colour="blue")
 plot
+
+funitsCR <- filter(funits, MT == "Cavalry", WT == "Ranged")
+funitsCM <- filter(funits, MT == "Cavalry", WT == "Melee")
+plot <- ggplot(filter(funits, MT == "Cavalry"), aes(x = DSR, y = Hibst, colour = WT)) + geom_point()
+plot <- plot + stat_smooth(data = funitsCR, method="lm", se=TRUE,
+                           formula= y ~ poly(x, 2, raw=TRUE),colour="blue")+
+  stat_smooth(data = funitsCM, method="lm", se=TRUE,
+              formula= y ~ poly(x, 2, raw=TRUE),colour="green")
+plot
+
+funitsFR <- filter(funits, MT == "Flying", WT == "Ranged")
+funitsFM <- filter(funits, MT == "Flying", WT == "Melee")
+plot <- ggplot(filter(funits, MT == "Flying"), aes(x = DSR, y = Hibst, colour = WT)) + geom_point()
+plot <- plot + stat_smooth(data = funitsFR, method="lm", se=TRUE,
+                           formula= y ~ poly(x, 2, raw=TRUE),colour="purple")+
+  stat_smooth(data = funitsFM, method="lm", se=TRUE,
+              formula= y ~ poly(x, 2, raw=TRUE),colour="blue")
+plot
+
+funitsAR <- filter(funits, MT == "Armored", WT == "Ranged")
+funitsAM <- filter(funits, MT == "Armored", WT == "Melee")
+plot <- ggplot(filter(funits, MT == "Armored"), aes(x = DSR, y = Hibst, colour = WT)) + geom_point()
+plot <- plot + stat_smooth(data = funitsAR, method="lm", se=TRUE,
+                           formula= y ~ poly(x, 2, raw=TRUE),colour="purple")+
+  stat_smooth(data = funitsAM, method="lm", se=TRUE,
+              formula= y ~ poly(x, 2, raw=TRUE),colour="blue")
+plot
+
+
+
+modelIMS <- lm(Hibst ~ DSR + Dance, family = binomial, data = funits)
+tab_model(modelIMS)
+clustIM <- 
+  filter(funitsIM, Dance == 0) %>%
+  select(DSR, Hibst)
+
+set.seed(42)
+fviz_nbclust(clustIM, kmeans,
+             nstart = 25,
+             method = "gap_stat",
+             nboot = 500
+) + # reduce it for lower computation time (but less precise results)
+  labs(subtitle = "Gap statistic method")
+
+
+
+hclust(clustIM)
+
+km_res <- kmeans(clustIM, centers = 2, nstart = 20)
+fviz_cluster(km_res, clustIM, ellipse.type = "norm")
+
+clustIM <- 
+  filter(funitsIM) %>%
+  select(DSR, Hibst, Dance, Duo, Legendary, Mythic)
+# Euclidean distance
+dist <- dist(clustIM , diag=TRUE)
+# Hierarchical Clustering with hclust
+hc <- hclust(dist)
+# Plot the result
+plot(hc)
+
+
+aggregate(clustIM,by=list(fit$cluster),FUN=mean)
+
 
 
 
