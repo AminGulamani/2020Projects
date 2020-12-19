@@ -5,9 +5,104 @@ library(sjPlot)
 library(sjmisc)
 library(sjlabelled)
 library(factoextra)
+library(wesanderson)
 
 setwd("C:/Users/Amin Gulamani/Desktop/FEH PowerCreep")
-funits <- read.csv("funits.csv")
+funits <- read.csv("funits.csv", header=TRUE, row.names="Name")
+
+#Sword unit archetyping
+speedRME <- filter(funits, MT == "Infantry", WT == "Melee", Colour == "Red")
+speedRME <- speedRME %>% select(Hihp,Hiatk,Hispd,Hidef,Hires,Hibst,DSR)
+#Scale
+set.seed(123)
+speedRME1 <- scale(speedRME)
+#optimal number of clusters and clust
+fviz_nbclust(speedRME1, kmeans, method = "wss")
+km.res <- kmeans(speedRME1, 3, nstart = 25)
+#visualize clusters
+p1 <- fviz_cluster(km.res, geom = "point", data = speedRME1) + ggtitle("k = 2")
+p1
+#plotting fun!
+plot <- ggplot(speedRME, aes(color =km.res$cluster, x = DSR, y = Hibst))+geom_point()
+plot
+
+#Infantry unit archetyping
+speedRME <- filter(funits, MT == "Infantry", WT == "Melee")
+speedRME <- speedRME %>% select(Hihp,Hiatk,Hispd,Hidef,Hires,Hibst,DSR,Dance,Legendary,Mythic,Ratings)
+#Scale
+set.seed(123)
+speedRME1 <- scale(speedRME)
+#optimal number of clusters and clust
+fviz_nbclust(speedRME1, kmeans, method = "wss")
+set.seed(313)
+km.res <- kmeans(speedRME1, 4, nstart = 25)
+#visualize clusters
+p1 <- fviz_cluster(km.res, geom = "point", data = speedRME1) + ggtitle("k = 2")
+p1
+#plotting fun!
+plot <- ggplot(speedRME, aes(color =km.res$cluster, x = Hiatk, y = Hispd))+geom_point()+
+      scale_color_gradientn(colours = rainbow(4))
+plot
+plot <- ggplot(speedRME, aes(color =km.res$cluster, x = DSR, y = Hibst))+geom_point()+scale_color_gradientn(colours = rainbow(4))
+plot
+#centers of the groups
+km.res$centers
+dend <- speedRME %>%  scale %>% 
+  dist %>% hclust %>% as.dendrogram
+dend %>% plot
+
+#Infantry unit archetyping
+speedRME <- filter(funits, MT == "Infantry", WT == "Melee")
+speedRME <- speedRME %>% select(Hibst,DSR)
+#Scale
+set.seed(123)
+speedRME1 <- scale(speedRME)
+#optimal number of clusters and clust
+fviz_nbclust(speedRME1, kmeans, method = "wss")
+set.seed(313)
+km.res <- kmeans(speedRME1, 6, nstart = 25)
+#visualize clusters
+p1 <- fviz_cluster(km.res, geom = "point", data = speedRME1) + ggtitle("k = 2")
+p1
+#plotting fun!
+
+plot <- ggplot(speedRME, aes(color =km.res$cluster, x = DSR, y = Hibst))+geom_point()+scale_color_gradientn(colours = rainbow(4))
+plot
+
+
+
+
+#Global unit archetyping
+speedRME <-funits
+speedRME <- speedRME %>% select(MA,WR,Hibst,DSR,Dance)
+#Scale
+set.seed(123)
+speedRME1 <- scale(speedRME)
+#optimal number of clusters and clust
+fviz_nbclust(speedRME1, kmeans, method = "wss")
+
+km.res <- kmeans(speedRME1, 5, nstart = 25)
+#visualize clusters
+p1 <- fviz_cluster(km.res, geom = "point", data = speedRME1) + ggtitle("k = 2")
+p1
+#plotting fun!
+plot <- ggplot(speedRME, aes(color = km.res$cluster, x = MA, y = Hibst))+geom_point()+scale_color_gradientn(colours = rainbow(4))
+plot
+plot <- ggplot(speedRME, aes(color = km.res$cluster, x = DSR, y = Hibst))+geom_point()+scale_color_gradientn(colours = rainbow(4))
+plot
+#centers of the groups
+km.res$centers
+
+
+
+
+
+
+
+plot <- ggplot(speedRME) + geom_point(aes(x = DSR, y = Hispd))
+plot
+
+
 funits <-
   funits %>%
   mutate(DSR2 = DSR * DSR)
